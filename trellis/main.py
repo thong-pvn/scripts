@@ -1,6 +1,5 @@
 # main.py
 from fastapi import FastAPI
-from huggingface_hub import login
 from diffusers import BitsAndBytesConfig, SD3Transformer2DModel
 from diffusers import StableDiffusion3Pipeline
 from io import BytesIO
@@ -17,9 +16,6 @@ import imageio
 from PIL import Image
 from trellis.pipelines import TrellisImageTo3DPipeline
 from trellis.utils import render_utils, postprocessing_utils
-
-# Go to: https://huggingface.co/settings/tokens
-login(token="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")
 
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 if torch.cuda.is_available():

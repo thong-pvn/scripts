@@ -17,6 +17,11 @@ export CXX=$CONDA_PREFIX/bin/x86_64-conda-linux-gnu-c++ && \
 export LD_LIBRARY_PATH=$CUDA_HOME/targets/x86_64-linux/lib:$LD_LIBRARY_PATH && \
 export CPLUS_INCLUDE_PATH=$CUDA_HOME/targets/x86_64-linux/include:$CPLUS_INCLUDE_PATH
 ```
+- Login Huggingface:
+```bash
+hf auth login
+# Get token from: https://huggingface.co/settings/tokens
+```
 - Start server:
 ```bash
 uvicorn main:app --host 0.0.0.0 --port 8000
