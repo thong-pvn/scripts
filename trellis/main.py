@@ -19,7 +19,7 @@ from trellis.pipelines import TrellisImageTo3DPipeline
 from trellis.utils import render_utils, postprocessing_utils
 
 # Go to: https://huggingface.co/settings/tokens
-login(token="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")
+login(token="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")
 
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 if torch.cuda.is_available():
