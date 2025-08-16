@@ -13,6 +13,7 @@ os.environ['SPCONV_ALGO'] = 'native'        # Can be 'native' or 'auto', default
                                             # Recommended to set to 'native' if run only once.
 
 import imageio
+import re
 from PIL import Image
 from trellis.pipelines import TrellisImageTo3DPipeline
 from trellis.utils import render_utils, postprocessing_utils
@@ -111,13 +112,17 @@ async def startup_event():
 @app.post("/generate/")
 async def generate(prompt: str = Form()) -> Response:
     t0 = time.time()
-    # save_path = re.sub(r"\s+", "_", prompt.strip())
+    # max save_path length is 200 < 255
+    save_path = re.sub(r'[^a-zA-Z0-9]', '_', prompt.strip())[:200]
     print(f"[INFO] Generation starting for prompt: {prompt}")
     sd35Pipe = app.state.sd35Pipe
     image = generateImage(prompt, sd35Pipe)
-    # image.save("whimsical.png")
-    # # Load an image
-    # image = Image.open("whimsical.png")
+    # Get current dir of this script, create sub folder images to save image
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    os.makedirs(os.path.join(current_dir, "images"), exist_ok=True)
+    image.save(os.path.join(current_dir, "images", save_path + ".png"), "png")
+
+    # Create 3D object
     trellisPipe = app.state.trellisPipe
     outputs = generate3dObject(image, trellisPipe)
     # # GLB files can be extracted from the outputs
