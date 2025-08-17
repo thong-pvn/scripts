@@ -155,4 +155,11 @@ python -c "import torch; print('torch version:', torch.__version__)"
 python -c "import torchvision; print('torchvision version:', torchvision.__version__)"
 python -c "import torchaudio; print('torchaudio version:', torchaudio.__version__)"
 python -c "import torch; print('CUDA version:', torch.version.cuda); print('CUDA available:', torch.cuda.is_available())"
+
+# Install rembg for removing background
+pip install onnxruntime-gpu
+pip install nvidia-pyindex
+pip install nvidia-cudnn nvidia-cudnn-frontend
+pip install "rembg[gpu,cli]" # for library + cli
+
 echo -e "\n\n[INFO][$(($(date +%s) - $startTime)) seconds] Ended ${CONDA_ENV_NAME}.config.js generated for PM2."
