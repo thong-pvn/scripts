@@ -1,0 +1,2 @@
+python batch_test.py --count 2 --suffix-type "default" --seedmin 42 --seedmax 42
+python batch_test.py --count 2 --suffix-type "entire object visible, full body view, centered in frame, photographed with a balanced camera distance (radius 2.5), wide field of view (47 degrees), slightly tilted vertical angle between -28 and +28 degrees, plain background, studio lighting, sharp focus" --seedmin 42 --seedmax 42
