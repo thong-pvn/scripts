@@ -20,7 +20,7 @@ params = {
     "seed": 100
 }
 
-optimized_prompt_request = f"Optimize the following statement: \"{args.prompt}\", replace confusing words with simpler alternatives, keep the meaning but change the wording if needed to improve clarity and conciseness, and easy understanding, and remove the surrounding environment, background. Return only the optimized prompt in response, no other text."
+optimized_prompt_request = f"Optimize the following statement using English: \"{args.prompt}\", replace confusing words with simpler alternatives, keep the meaning but change the wording if needed to improve clarity and conciseness, and easy understanding. Return only the optimized prompt in response, no other text."
 
 encoded_prompt = urllib.parse.quote(optimized_prompt_request)
 

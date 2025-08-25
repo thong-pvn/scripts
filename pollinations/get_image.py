@@ -13,14 +13,13 @@ from io import BytesIO
 TOKEN = os.getenv("POLLINATIONS_TOKEN")
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--prompt", type=str, required=True)
-parser.add_argument("--filename_prefix", type=str, default="")
+parser.add_argument("-p", "--prompt", type=str, required=True)
+parser.add_argument("-fp", "--filename_prefix", type=str, default="")
 args = parser.parse_args()
 
 RESULT_FOLDER = "results"
 
-custom_prompt = args.prompt + ", in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red."
-# custom_prompt = args.prompt + ", no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle"
+custom_prompt = f"{args.prompt}, set against a uniformly colored background with high contrast to the object’s color. Avoid background colors that are too bright or too dark; the background should differ significantly from the object to make it easy to remove the background later. The object should absorb light well, without small reflective spots. It must not have missing, overly detailed, or unappealing parts, and should match the description. Render the entire full body of the object within the frame, viewed from an isometric angle at 45 degrees from the front and above, angled downward. Keep the design simple with clean, detailed features."
 
 encoded_prompt = urllib.parse.quote(custom_prompt)
 

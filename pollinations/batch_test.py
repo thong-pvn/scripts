@@ -169,7 +169,7 @@ for idx, prompt in enumerate(DEFAULT_PROMPTS):
 
     print(f"[{idx + 1}/{len(DEFAULT_PROMPTS)}][{time.time() - start_time:.2f}s] Optimized prompt: '{optimized_prompt}'")
 
-    time.sleep(5)
+    time.sleep(2)
 
     result = subprocess.run([
         "python", "get_image.py", f"--prompt={optimized_prompt}", f"--filename_prefix=img_{idx + 1:03d}"
@@ -178,6 +178,6 @@ for idx, prompt in enumerate(DEFAULT_PROMPTS):
         print(f"Error: {result.stderr}")
     print(f"[{idx + 1}/{len(DEFAULT_PROMPTS)}][{time.time() - start_time:.2f}s] Completed save image for prompt, take {time.time() - loop_start_time:.2f}s")
     print("")
-    time.sleep(5)
+    time.sleep(3)
 
 print("Batch image generation complete.")
