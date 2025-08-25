@@ -1,0 +1,594 @@
+[1/150][0.00s] Generating image for prompt: 'robot with multi-colored neon stripes'
+[1/150][1.14s] Optimized prompt: 'Colorful neon-striped robot'
+Generating image...
+Prompt: Colorful neon-striped robot, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_001_Colorful_neon_striped_robot__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[1/150][10.65s] Completed save image for prompt, take 10.65s
+
+[2/150][15.65s] Generating image for prompt: 'dark brown hockey stick with black tape'
+[2/150][25.79s] Optimized prompt: 'Dark brown hockey stick wrapped with black tape'
+Generating image...
+Prompt: Dark brown hockey stick wrapped with black tape, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_002_Dark_brown_hockey_stick_wrapped_with_black_tape__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[2/150][42.61s] Completed save image for prompt, take 26.96s
+
+[3/150][47.61s] Generating image for prompt: 'streamlined red turbine base'
+[3/150][48.39s] Optimized prompt: 'Red turbine base'
+Generating image...
+Prompt: Red turbine base, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_003_Red_turbine_base__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[3/150][53.99s] Completed save image for prompt, take 6.38s
+
+[4/150][58.99s] Generating image for prompt: 'metallic griffin holding golden treasure chest tightly'
+[4/150][68.92s] Optimized prompt: 'A metallic griffin holding a gold treasure chest tightly.'
+Generating image...
+Prompt: A metallic griffin holding a gold treasure chest tightly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_004_A_metallic_griffin_holding_a_gold_treasure_chest_tightly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[4/150][75.52s] Completed save image for prompt, take 16.53s
+
+[5/150][80.52s] Generating image for prompt: 'yellow textured triangular pencil holder'
+[5/150][81.45s] Optimized prompt: 'Yellow, textured triangular pencil holder'
+Generating image...
+Prompt: Yellow, textured triangular pencil holder, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_005_Yellow__textured_triangular_pencil_holder__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[5/150][87.98s] Completed save image for prompt, take 7.46s
+
+[6/150][92.98s] Generating image for prompt: 'teal fabric scissors with curved blades'
+[6/150][93.80s] Optimized prompt: 'Teal fabric scissors with curved blades'
+Generating image...
+Prompt: Teal fabric scissors with curved blades, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_006_Teal_fabric_scissors_with_curved_blades__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[6/150][108.54s] Completed save image for prompt, take 15.56s
+
+[7/150][113.54s] Generating image for prompt: 'jagged obsidian rock darkly reflecting light'
+[7/150][114.41s] Optimized prompt: 'A dark, jagged piece of obsidian reflecting light.'
+Generating image...
+Prompt: A dark, jagged piece of obsidian reflecting light., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_007_A_dark__jagged_piece_of_obsidian_reflecting_light___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[7/150][120.02s] Completed save image for prompt, take 6.48s
+
+[8/150][125.02s] Generating image for prompt: 'glossy white compact robot model'
+[8/150][125.98s] Optimized prompt: 'Shiny white small robot model'
+Generating image...
+Prompt: Shiny white small robot model, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_008_Shiny_white_small_robot_model__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[8/150][136.63s] Completed save image for prompt, take 11.62s
+
+[9/150][141.63s] Generating image for prompt: 'tall white vase with fresh flowers in it'
+[9/150][144.05s] Optimized prompt: 'Tall white vase with fresh flowers'
+Generating image...
+Prompt: Tall white vase with fresh flowers, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_009_Tall_white_vase_with_fresh_flowers__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[9/150][161.77s] Completed save image for prompt, take 20.14s
+
+[10/150][166.77s] Generating image for prompt: 'shiny white crystal with iridescent colors'
+[10/150][168.26s] Optimized prompt: 'Shiny white crystal with rainbow-like colors'
+Generating image...
+Prompt: Shiny white crystal with rainbow-like colors, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_010_Shiny_white_crystal_with_rainbow_like_colors__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[10/150][185.01s] Completed save image for prompt, take 18.23s
+
+[11/150][190.01s] Generating image for prompt: 'pink heart-shaped toadstool in woods'
+[11/150][191.09s] Optimized prompt: 'A pink heart-shaped mushroom.'
+Generating image...
+Prompt: A pink heart-shaped mushroom., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_011_A_pink_heart_shaped_mushroom___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[11/150][207.75s] Completed save image for prompt, take 17.75s
+
+[12/150][212.75s] Generating image for prompt: 'iridescent gold griffin standing proud'
+[12/150][214.05s] Optimized prompt: 'Shining gold griffin standing proudly'
+Generating image...
+Prompt: Shining gold griffin standing proudly, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_012_Shining_gold_griffin_standing_proudly__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[12/150][236.72s] Completed save image for prompt, take 23.97s
+
+[13/150][241.72s] Generating image for prompt: 'platinum earring sparkles faintly'
+[13/150][243.60s] Optimized prompt: 'A platinum earring shines softly.'
+Generating image...
+Prompt: A platinum earring shines softly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_013_A_platinum_earring_shines_softly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[13/150][257.26s] Completed save image for prompt, take 15.54s
+
+[14/150][262.26s] Generating image for prompt: 'vintage doll with curly hair twirling around'
+[14/150][263.35s] Optimized prompt: 'Vintage doll with curly hair spinning around'
+Generating image...
+Prompt: Vintage doll with curly hair spinning around, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_014_Vintage_doll_with_curly_hair_spinning_around__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[14/150][281.43s] Completed save image for prompt, take 19.18s
+
+[15/150][286.43s] Generating image for prompt: 'glossy purple grape bunch on stem'
+[15/150][288.74s] Optimized prompt: 'Glossy purple grape cluster on stem'
+Generating image...
+Prompt: Glossy purple grape cluster on stem, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_015_Glossy_purple_grape_cluster_on_stem__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[15/150][299.93s] Completed save image for prompt, take 13.50s
+
+[16/150][304.93s] Generating image for prompt: 'jade bangle with mother of pearl inlay'
+[16/150][306.60s] Optimized prompt: 'Jade bangle with pearl inlay'
+Generating image...
+Prompt: Jade bangle with pearl inlay, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_016_Jade_bangle_with_pearl_inlay__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[16/150][312.88s] Completed save image for prompt, take 7.95s
+
+[17/150][317.88s] Generating image for prompt: 'sleek carbon fiber black race car'
+[17/150][319.29s] Optimized prompt: 'Black carbon fiber race car'
+Generating image...
+Prompt: Black carbon fiber race car, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_017_Black_carbon_fiber_race_car__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[17/150][328.69s] Completed save image for prompt, take 10.81s
+
+[18/150][333.69s] Generating image for prompt: 'smooth white frothy milk pitcher'
+[18/150][335.21s] Optimized prompt: 'Frothy white milk pitcher'
+Generating image...
+Prompt: Frothy white milk pitcher, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_018_Frothy_white_milk_pitcher__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[18/150][348.56s] Completed save image for prompt, take 14.88s
+
+[19/150][353.56s] Generating image for prompt: 'sleek violet mermaid in starlight gown'
+[19/150][354.91s] Optimized prompt: 'A stylish violet mermaid in a starry gown'
+Generating image...
+Prompt: A stylish violet mermaid in a starry gown, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Traceback (most recent call last):
+  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
+    image = model.Generate(
+            ^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
+    self.request = _get_image_request(self._client, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
+    request.raise_for_status()
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/A%20stylish%20violet%20mermaid%20in%20a%20starry%20gown%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+[19/150][360.20s] Completed save image for prompt, take 6.63s
+
+[20/150][365.20s] Generating image for prompt: 'tiny square white and black opal bracelet'
+[20/150][366.45s] Optimized prompt: 'Small black and white opal bracelet with square-shaped stones'
+Generating image...
+Prompt: Small black and white opal bracelet with square-shaped stones, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Traceback (most recent call last):
+  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
+    image = model.Generate(
+            ^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
+    self.request = _get_image_request(self._client, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
+    request.raise_for_status()
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/Small%20black%20and%20white%20opal%20bracelet%20with%20square-shaped%20stones%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+[20/150][367.70s] Completed save image for prompt, take 2.50s
+
+[21/150][372.70s] Generating image for prompt: 'gold chisel with chips in it'
+[21/150][380.43s] Optimized prompt: 'A gold chisel with chips in it'
+Generating image...
+Prompt: A gold chisel with chips in it, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_021_A_gold_chisel_with_chips_in_it__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[21/150][389.98s] Completed save image for prompt, take 17.28s
+
+[22/150][394.98s] Generating image for prompt: 'clear cylindrical citrine with sunny yellow shade'
+[22/150][396.48s] Optimized prompt: 'Clear cylindrical citrine with a bright yellow color'
+Generating image...
+Prompt: Clear cylindrical citrine with a bright yellow color, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_022_Clear_cylindrical_citrine_with_a_bright_yellow_color__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[22/150][399.47s] Completed save image for prompt, take 4.49s
+
+[23/150][404.47s] Generating image for prompt: 'navy blue soccer cleats studs'
+[23/150][411.15s] Optimized prompt: 'Navy blue soccer cleats with studs'
+Generating image...
+Prompt: Navy blue soccer cleats with studs, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_023_Navy_blue_soccer_cleats_with_studs__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[23/150][433.37s] Completed save image for prompt, take 28.90s
+
+[24/150][438.37s] Generating image for prompt: 'green four-eyed robot holding tool'
+[24/150][439.75s] Optimized prompt: 'Green robot with four eyes holding a tool'
+Generating image...
+Prompt: Green robot with four eyes holding a tool, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_024_Green_robot_with_four_eyes_holding_a_tool__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[24/150][455.54s] Completed save image for prompt, take 17.16s
+
+[25/150][460.54s] Generating image for prompt: 'spaceship carries booster rockets'
+[25/150][461.85s] Optimized prompt: 'A spaceship carries booster rockets.'
+Generating image...
+Prompt: A spaceship carries booster rockets., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_025_A_spaceship_carries_booster_rockets___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[25/150][480.79s] Completed save image for prompt, take 20.25s
+
+[26/150][485.79s] Generating image for prompt: 'sophisticated pearl tiara with subtle curves'
+[26/150][486.93s] Optimized prompt: 'Elegant pearl tiara with gentle curves'
+Generating image...
+Prompt: Elegant pearl tiara with gentle curves, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_026_Elegant_pearl_tiara_with_gentle_curves__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[26/150][496.10s] Completed save image for prompt, take 10.31s
+
+[27/150][501.10s] Generating image for prompt: 'onyx flat broadsword'
+[27/150][502.50s] Optimized prompt: 'Black flat sword'
+Generating image...
+Prompt: Black flat sword, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_027_Black_flat_sword__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[27/150][507.31s] Completed save image for prompt, take 6.20s
+
+[28/150][512.31s] Generating image for prompt: 'gold-plated action figure with dynamic pose'
+[28/150][513.52s] Optimized prompt: 'Gold-colored action figure with a dynamic pose'
+Generating image...
+Prompt: Gold-colored action figure with a dynamic pose, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_028_Gold_colored_action_figure_with_a_dynamic_pose__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[28/150][528.62s] Completed save image for prompt, take 16.31s
+
+[29/150][533.62s] Generating image for prompt: 'robot with white square body and blue round head'
+[29/150][535.38s] Optimized prompt: 'A robot with a white square body and a blue round head.'
+Generating image...
+Prompt: A robot with a white square body and a blue round head., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_029_A_robot_with_a_white_square_body_and_a_blue_round_head___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[29/150][546.89s] Completed save image for prompt, take 13.27s
+
+[30/150][551.89s] Generating image for prompt: 'glossy emerald obelisk-shaped gem'
+[30/150][553.50s] Optimized prompt: 'A shiny emerald-green, pointed, obelisk-shaped gem.'
+Generating image...
+Prompt: A shiny emerald-green, pointed, obelisk-shaped gem., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_030_A_shiny_emerald_green__pointed__obelisk_shaped_gem___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[30/150][563.66s] Completed save image for prompt, take 11.78s
+
+[31/150][568.66s] Generating image for prompt: 'sleek black robot beside plant pot'
+[31/150][569.74s] Optimized prompt: 'Black robot next to a plant pot'
+Generating image...
+Prompt: Black robot next to a plant pot, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_031_Black_robot_next_to_a_plant_pot__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[31/150][578.78s] Completed save image for prompt, take 10.12s
+
+[32/150][583.78s] Generating image for prompt: 'smooth green pear perched atop white napkin'
+[32/150][586.08s] Optimized prompt: 'A shiny green pear resting on a white napkin.'
+Generating image...
+Prompt: A shiny green pear resting on a white napkin., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_032_A_shiny_green_pear_resting_on_a_white_napkin___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[32/150][598.09s] Completed save image for prompt, take 14.31s
+
+[33/150][603.09s] Generating image for prompt: 'vintage steel drum adorned with tropical designs'
+[33/150][604.43s] Optimized prompt: 'Vintage steel drum with tropical patterns'
+Generating image...
+Prompt: Vintage steel drum with tropical patterns, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_033_Vintage_steel_drum_with_tropical_patterns__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[33/150][621.41s] Completed save image for prompt, take 18.32s
+
+[34/150][626.41s] Generating image for prompt: 'white cotton ball nestled in wooden bowl'
+[34/150][627.61s] Optimized prompt: 'A white cotton ball in a wooden bowl.'
+Generating image...
+Prompt: A white cotton ball in a wooden bowl., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_034_A_white_cotton_ball_in_a_wooden_bowl___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[34/150][646.17s] Completed save image for prompt, take 19.76s
+
+[35/150][651.17s] Generating image for prompt: 'long bench made of metal'
+[35/150][652.44s] Optimized prompt: 'metal bench'
+Generating image...
+Prompt: metal bench, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_035_metal_bench__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[35/150][669.30s] Completed save image for prompt, take 18.12s
+
+[36/150][674.30s] Generating image for prompt: 'small curved wooden tool'
+[36/150][675.54s] Optimized prompt: 'small curved wooden tool'
+Generating image...
+Prompt: small curved wooden tool, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_036_small_curved_wooden_tool__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[36/150][679.62s] Completed save image for prompt, take 5.32s
+
+[37/150][684.62s] Generating image for prompt: 'large yellow diamond with chip in it'
+[37/150][686.39s] Optimized prompt: 'Large yellow diamond with a chip inside.'
+Generating image...
+Prompt: Large yellow diamond with a chip inside., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_037_Large_yellow_diamond_with_a_chip_inside___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[37/150][692.15s] Completed save image for prompt, take 7.53s
+
+[38/150][697.15s] Generating image for prompt: 'multi-colored beads on leather string'
+[38/150][701.39s] Optimized prompt: 'Colorful beads on a leather cord'
+Generating image...
+Prompt: Colorful beads on a leather cord, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_038_Colorful_beads_on_a_leather_cord__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[38/150][716.20s] Completed save image for prompt, take 19.05s
+
+[39/150][721.20s] Generating image for prompt: 'purple frisbee aerodynamic and disc-shaped'
+[39/150][723.11s] Optimized prompt: 'A purple, disc-shaped, and aerodynamic frisbee.'
+Generating image...
+Prompt: A purple, disc-shaped, and aerodynamic frisbee., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_039_A_purple__disc_shaped__and_aerodynamic_frisbee___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[39/150][748.26s] Completed save image for prompt, take 27.06s
+
+[40/150][753.26s] Generating image for prompt: 'purple synthetic track shoe'
+[40/150][760.81s] Optimized prompt: 'Purple artificial running shoe'
+Generating image...
+Prompt: Purple artificial running shoe, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_040_Purple_artificial_running_shoe__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[40/150][775.46s] Completed save image for prompt, take 22.20s
+
+[41/150][780.46s] Generating image for prompt: 'matte-black humanoid robot standing in pose of contemplation'
+[41/150][781.78s] Optimized prompt: 'A matte black humanoid robot standing in a thoughtful pose.'
+Generating image...
+Prompt: A matte black humanoid robot standing in a thoughtful pose., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_041_A_matte_black_humanoid_robot_standing_in_a_thoughtful_pose___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[41/150][792.12s] Completed save image for prompt, take 11.67s
+
+[42/150][797.12s] Generating image for prompt: 'pinecone on blue spruce branch'
+[42/150][798.59s] Optimized prompt: 'Pinecone on a blue spruce branch'
+Generating image...
+Prompt: Pinecone on a blue spruce branch, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_042_Pinecone_on_a_blue_spruce_branch__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[42/150][808.52s] Completed save image for prompt, take 11.39s
+
+[43/150][813.52s] Generating image for prompt: 'tiny wand wrapped in velvet ribbon'
+[43/150][817.70s] Optimized prompt: 'Small wand tied with velvet ribbon'
+Generating image...
+Prompt: Small wand tied with velvet ribbon, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_043_Small_wand_tied_with_velvet_ribbon__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[43/150][823.57s] Completed save image for prompt, take 10.06s
+
+[44/150][828.57s] Generating image for prompt: 'minimalist clear plastic protractor'
+[44/150][829.61s] Optimized prompt: 'Clear plastic protractor with a simple, minimalist design'
+Generating image...
+Prompt: Clear plastic protractor with a simple, minimalist design, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_044_Clear_plastic_protractor_with_a_simple__minimalist_design__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[44/150][835.19s] Completed save image for prompt, take 6.62s
+
+[45/150][840.19s] Generating image for prompt: 'red vanity mirror'
+[45/150][843.05s] Optimized prompt: 'Red mirror with a vanity stand'
+Generating image...
+Prompt: Red mirror with a vanity stand, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_045_Red_mirror_with_a_vanity_stand__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[45/150][857.82s] Completed save image for prompt, take 17.63s
+
+[46/150][862.82s] Generating image for prompt: 'glossy yellow fruit bowl deep rimmed'
+[46/150][864.29s] Optimized prompt: 'Yellow glossy fruit bowl with a deep rim'
+Generating image...
+Prompt: Yellow glossy fruit bowl with a deep rim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_046_Yellow_glossy_fruit_bowl_with_a_deep_rim__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[46/150][869.95s] Completed save image for prompt, take 7.13s
+
+[47/150][874.95s] Generating image for prompt: 'opal necklace with sun shape'
+[47/150][876.39s] Optimized prompt: 'Opal sun-shaped necklace'
+Generating image...
+Prompt: Opal sun-shaped necklace, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_047_Opal_sun_shaped_necklace__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[47/150][892.74s] Completed save image for prompt, take 17.80s
+
+[48/150][897.74s] Generating image for prompt: 'blue monkey with yellow face'
+[48/150][899.73s] Optimized prompt: 'Blue monkey with a yellow face'
+Generating image...
+Prompt: Blue monkey with a yellow face, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_048_Blue_monkey_with_a_yellow_face__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[48/150][919.08s] Completed save image for prompt, take 21.33s
+
+[49/150][924.08s] Generating image for prompt: 'elegant pearl pendant on dainty chain'
+[49/150][928.78s] Optimized prompt: 'Elegant pearl necklace with delicate chain'
+Generating image...
+Prompt: Elegant pearl necklace with delicate chain, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_049_Elegant_pearl_necklace_with_delicate_chain__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[49/150][934.83s] Completed save image for prompt, take 10.75s
+
+[50/150][939.83s] Generating image for prompt: 'warm brown mug of hot chocolate'
+[50/150][944.22s] Optimized prompt: 'hot chocolate in a warm brown mug'
+Generating image...
+Prompt: hot chocolate in a warm brown mug, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_050_hot_chocolate_in_a_warm_brown_mug__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[50/150][956.90s] Completed save image for prompt, take 17.07s
+
+[51/150][961.90s] Generating image for prompt: 'wizards cloak with golden trim'
+[51/150][963.28s] Optimized prompt: 'Wizard's cloak with gold trim'
+Generating image...
+Prompt: Wizard's cloak with gold trim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_051_Wizard_s_cloak_with_gold_trim__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[51/150][969.36s] Completed save image for prompt, take 7.47s
+
+[52/150][974.36s] Generating image for prompt: 'metallic green bow with polished wood limbs'
+[52/150][976.12s] Optimized prompt: 'Glossy green bow with smooth wooden limbs'
+Generating image...
+Prompt: Glossy green bow with smooth wooden limbs, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_052_Glossy_green_bow_with_smooth_wooden_limbs__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[52/150][984.84s] Completed save image for prompt, take 10.48s
+
+[53/150][989.84s] Generating image for prompt: 'prismatic violet tourmaline glows'
+[53/150][991.46s] Optimized prompt: 'Vivid violet tourmaline shines brightly.'
+Generating image...
+Prompt: Vivid violet tourmaline shines brightly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_053_Vivid_violet_tourmaline_shines_brightly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[53/150][999.56s] Completed save image for prompt, take 9.72s
+
+[54/150][1004.56s] Generating image for prompt: 'sniper rifle custom scope with infrared capabilities'
+[54/150][1008.88s] Optimized prompt: 'Custom sniper rifle scope with infrared vision'
+Generating image...
+Prompt: Custom sniper rifle scope with infrared vision, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_054_Custom_sniper_rifle_scope_with_infrared_vision__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[54/150][1017.85s] Completed save image for prompt, take 13.29s
+
+[55/150][1022.85s] Generating image for prompt: 'gray squirrel running briskly'
+[55/150][1024.16s] Optimized prompt: 'A quick gray squirrel.'
+Generating image...
+Prompt: A quick gray squirrel., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_055_A_quick_gray_squirrel___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[55/150][1037.96s] Completed save image for prompt, take 15.12s
+
+[56/150][1042.96s] Generating image for prompt: 'beige robot holding wrench'
+[56/150][1044.31s] Optimized prompt: 'Beige robot holding a wrench.'
+Generating image...
+Prompt: Beige robot holding a wrench., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_056_Beige_robot_holding_a_wrench___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[56/150][1050.58s] Completed save image for prompt, take 7.61s
+
+[57/150][1055.58s] Generating image for prompt: 'giant red centaur holding shield'
+[57/150][1057.73s] Optimized prompt: 'A large red centaur holding a shield.'
+Generating image...
+Prompt: A large red centaur holding a shield., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_057_A_large_red_centaur_holding_a_shield___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[57/150][1071.47s] Completed save image for prompt, take 15.90s
+
+[58/150][1076.47s] Generating image for prompt: 'dagger with ivory handle and golden tip'
+[58/150][1078.17s] Optimized prompt: 'Ivory-handled dagger with a gold tip'
+Generating image...
+Prompt: Ivory-handled dagger with a gold tip, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_058_Ivory_handled_dagger_with_a_gold_tip__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[58/150][1092.84s] Completed save image for prompt, take 16.37s
+
+[59/150][1097.84s] Generating image for prompt: 'powerful purple hippogriff in fierce battle stance'
+[59/150][1100.65s] Optimized prompt: 'A strong purple hippogriff in an aggressive battle stance.'
+Generating image...
+Prompt: A strong purple hippogriff in an aggressive battle stance., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_059_A_strong_purple_hippogriff_in_an_aggressive_battle_stance___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[59/150][1124.36s] Completed save image for prompt, take 26.52s
+
+[60/150][1129.36s] Generating image for prompt: 'vibrant blue feathered phoenix wings spread standing proud on marble pedestal'
+[60/150][1131.31s] Optimized prompt: 'Vivid blue phoenix wings spread wide, standing proudly on a marble pedestal.'
+Generating image...
+Prompt: Vivid blue phoenix wings spread wide, standing proudly on a marble pedestal., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_060_Vivid_blue_phoenix_wings_spread_wide__standing_proudly_on_a_marble_pedestal___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[60/150][1137.72s] Completed save image for prompt, take 8.36s
+
+[61/150][1142.72s] Generating image for prompt: 'metallic cylinder with rounded edges'
+[61/150][1144.83s] Optimized prompt: 'Metal cylinder with smooth, rounded edges'
+Generating image...
+Prompt: Metal cylinder with smooth, rounded edges, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_061_Metal_cylinder_with_smooth__rounded_edges__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[61/150][1158.57s] Completed save image for prompt, take 15.84s
+
+[62/150][1163.57s] Generating image for prompt: 'metal carving tool set'
+[62/150][1167.91s] Optimized prompt: 'Metal engraving tool kit'
+Generating image...
+Prompt: Metal engraving tool kit, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_062_Metal_engraving_tool_kit__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[62/150][1183.19s] Completed save image for prompt, take 19.62s
+
+[63/150][1188.19s] Generating image for prompt: 'elegant gold ring featuring sapphire centerpiece'
+[63/150][1192.28s] Optimized prompt: 'Simple gold ring with a blue sapphire center gemstone'
+Generating image...
+Prompt: Simple gold ring with a blue sapphire center gemstone, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_063_Simple_gold_ring_with_a_blue_sapphire_center_gemstone__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[63/150][1204.09s] Completed save image for prompt, take 15.90s
+
+[64/150][1209.09s] Generating image for prompt: 'lustrous white opal shard'
+[64/150][1210.77s] Optimized prompt: 'Shiny white opal fragment'
+Generating image...
+Prompt: Shiny white opal fragment, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_064_Shiny_white_opal_fragment__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[64/150][1224.20s] Completed save image for prompt, take 15.11s
+
+[65/150][1229.20s] Generating image for prompt: 'mortar tube loaded ready for launch'
+[65/150][1233.59s] Optimized prompt: '{"annotations":[],"refusal":null,"role":"assistant"}'
+Generating image...
+Prompt: {"annotations":[],"refusal":null,"role":"assistant"}, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_065___annotations______refusal__null__role___assistant____no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[65/150][1244.97s] Completed save image for prompt, take 15.77s
+
+[66/150][1249.97s] Generating image for prompt: 'compact green bamboo cabinet'
+[66/150][1251.29s] Optimized prompt: 'Small green bamboo cabinet'
+Generating image...
+Prompt: Small green bamboo cabinet, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Saving image to results/img_066_Small_green_bamboo_cabinet__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
+[66/150][1257.43s] Completed save image for prompt, take 7.46s
+
+[67/150][1262.43s] Generating image for prompt: 'donut with flames'
+[67/150][1266.36s] Optimized prompt: 'A hot, flaming donut'
+Generating image...
+Prompt: A hot, flaming donut, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Traceback (most recent call last):
+  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
+    image = model.Generate(
+            ^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
+    self.request = _get_image_request(self._client, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
+    request.raise_for_status()
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/A%20hot%2C%20flaming%20donut%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+[67/150][1270.71s] Completed save image for prompt, take 8.28s
+
+[68/150][1275.71s] Generating image for prompt: 'clay pot with rim chips'
+[68/150][1276.99s] Optimized prompt: 'Clay pot with chips on the rim'
+Generating image...
+Prompt: Clay pot with chips on the rim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
+Negative prompt: 
+Traceback (most recent call last):
+  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
+    image = model.Generate(
+            ^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
+    self.request = _get_image_request(self._client, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
+    request.raise_for_status()
+  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/Clay%20pot%20with%20chips%20on%20the%20rim%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+[68/150][1278.01s] Completed save image for prompt, take 2.31s
+
+[69/150][1283.01s] Generating image for prompt: 'colorful macaron set on silver tray'
+[69/150][1284.00s] Optimized prompt: 'Colorful macarons on a silver tray'
