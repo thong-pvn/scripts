@@ -1,594 +1,1051 @@
 [1/150][0.00s] Generating image for prompt: 'robot with multi-colored neon stripes'
-[1/150][1.14s] Optimized prompt: 'Colorful neon-striped robot'
-Generating image...
-Prompt: Colorful neon-striped robot, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_001_Colorful_neon_striped_robot__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[1/150][10.65s] Completed save image for prompt, take 10.65s
+[1/150][1.15s] Optimized prompt: 'robot with bright, multi-colored neon stripes'
+Generating image...
+Prompt: robot with bright, multi-colored neon stripes, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[1/150][9.17s] Completed save image for prompt, take 9.17s
+
+[2/150][14.17s] Generating image for prompt: 'dark brown hockey stick with black tape'
+[2/150][17.60s] Optimized prompt: 'Dark brown hockey stick wrapped with black tape'
+Generating image...
+Prompt: Dark brown hockey stick wrapped with black tape, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[2/150][23.34s] Completed save image for prompt, take 9.17s
+
+[3/150][28.34s] Generating image for prompt: 'streamlined red turbine base'
+[3/150][31.27s] Optimized prompt: 'Simple red turbine foundation'
+Generating image...
+Prompt: Simple red turbine foundation, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[3/150][37.53s] Completed save image for prompt, take 9.19s
+
+[4/150][42.53s] Generating image for prompt: 'metallic griffin holding golden treasure chest tightly'
+[4/150][45.95s] Optimized prompt: 'A metal griffin clutching a gold treasure chest tightly.'
+Generating image...
+Prompt: A metal griffin clutching a gold treasure chest tightly., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[4/150][60.91s] Completed save image for prompt, take 18.38s
+
+[5/150][65.91s] Generating image for prompt: 'yellow textured triangular pencil holder'
+[5/150][68.65s] Optimized prompt: 'Yellow textured triangle-shaped pencil holder'
+Generating image...
+Prompt: Yellow textured triangle-shaped pencil holder, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[5/150][84.67s] Completed save image for prompt, take 18.76s
+
+[6/150][89.67s] Generating image for prompt: 'teal fabric scissors with curved blades'
+[6/150][93.31s] Optimized prompt: 'Teal fabric scissors with curved blades'
+Generating image...
+Prompt: Teal fabric scissors with curved blades, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[6/150][99.91s] Completed save image for prompt, take 10.24s
+
+[7/150][104.91s] Generating image for prompt: 'jagged obsidian rock darkly reflecting light'
+[7/150][109.27s] Optimized prompt: 'A dark, sharp piece of obsidian reflecting light.'
+Generating image...
+Prompt: A dark, sharp piece of obsidian reflecting light., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Error fetching image: 502 Server Error: Bad Gateway for url: https://image.pollinations.ai/prompt/A%20dark%2C%20sharp%20piece%20of%20obsidian%20reflecting%20light.%2C%20in%20huge%20black%20space%2C%20toy-like%20appearance.%20It%20is%20fresh-color%2C%20non%20reflective%2C%20solid%20texture%2C%20opaque%20fabric.%20It%20is%20a%20game%20asset.%20It%20has%20a%20smooth%2C%20stylized%2C%20low-poly%20design%2C%20with%20minimalist%20details%20and%20rounded%20edges.%20It%20is%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle.%20The%20main%20color%20for%20the%20parts%20that%20are%20not%20clearly%20described%20will%20be%20red.?width=1024&height=1024&seed=100&model=flux&nologo=true
+[7/150][110.23s] Completed save image for prompt, take 5.32s
+
+[8/150][115.23s] Generating image for prompt: 'glossy white compact robot model'
+[8/150][117.90s] Optimized prompt: 'shiny white compact robot'
+Generating image...
+Prompt: shiny white compact robot, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[8/150][121.43s] Completed save image for prompt, take 6.20s
+
+[9/150][126.43s] Generating image for prompt: 'tall white vase with fresh flowers in it'
+[9/150][129.59s] Optimized prompt: 'Tall white vase with fresh flowers'
+Generating image...
+Prompt: Tall white vase with fresh flowers, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[9/150][134.55s] Completed save image for prompt, take 8.12s
+
+[10/150][139.55s] Generating image for prompt: 'shiny white crystal with iridescent colors'
+[10/150][142.90s] Optimized prompt: 'Bright white crystal with rainbow colors'
+Generating image...
+Prompt: Bright white crystal with rainbow colors, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[10/150][148.18s] Completed save image for prompt, take 8.63s
+
+[11/150][153.18s] Generating image for prompt: 'pink heart-shaped toadstool in woods'
+[11/150][155.83s] Optimized prompt: 'Pink heart-shaped mushroom'
+Generating image...
+Prompt: Pink heart-shaped mushroom, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[11/150][160.56s] Completed save image for prompt, take 7.38s
+
+[12/150][165.56s] Generating image for prompt: 'iridescent gold griffin standing proud'
+[12/150][169.04s] Optimized prompt: 'A shiny gold griffin standing tall and proud.'
+Generating image...
+Prompt: A shiny gold griffin standing tall and proud., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[12/150][174.37s] Completed save image for prompt, take 8.81s
+
+[13/150][179.37s] Generating image for prompt: 'platinum earring sparkles faintly'
+[13/150][182.35s] Optimized prompt: 'A platinum earring shines softly.'
+Generating image...
+Prompt: A platinum earring shines softly., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[13/150][189.17s] Completed save image for prompt, take 9.80s
+
+[14/150][194.17s] Generating image for prompt: 'vintage doll with curly hair twirling around'
+[14/150][197.44s] Optimized prompt: 'Vintage doll with curly hair spinning around'
+Generating image...
+Prompt: Vintage doll with curly hair spinning around, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[14/150][202.93s] Completed save image for prompt, take 8.76s
+
+[15/150][207.93s] Generating image for prompt: 'glossy purple grape bunch on stem'
+[15/150][211.51s] Optimized prompt: 'Glossy purple grape bunch on stem'
+Generating image...
+Prompt: Glossy purple grape bunch on stem, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[15/150][216.54s] Completed save image for prompt, take 8.60s
+
+[16/150][221.54s] Generating image for prompt: 'jade bangle with mother of pearl inlay'
+[16/150][225.12s] Optimized prompt: 'Jade bracelet with seashell inlay'
+Generating image...
+Prompt: Jade bracelet with seashell inlay, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[16/150][230.57s] Completed save image for prompt, take 9.03s
+
+[17/150][235.57s] Generating image for prompt: 'sleek carbon fiber black race car'
+[17/150][238.21s] Optimized prompt: 'black carbon fiber race car'
+Generating image...
+Prompt: black carbon fiber race car, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[17/150][243.29s] Completed save image for prompt, take 7.71s
+
+[18/150][248.29s] Generating image for prompt: 'smooth white frothy milk pitcher'
+[18/150][252.53s] Optimized prompt: 'white frothy milk pitcher'
+Generating image...
+Prompt: white frothy milk pitcher, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[18/150][257.28s] Completed save image for prompt, take 9.00s
+
+[19/150][262.28s] Generating image for prompt: 'sleek violet mermaid in starlight gown'
+[19/150][265.67s] Optimized prompt: 'Elegant purple mermaid in a shining gown'
+Generating image...
+Prompt: Elegant purple mermaid in a shining gown, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[19/150][270.88s] Completed save image for prompt, take 8.60s
+
+[20/150][275.88s] Generating image for prompt: 'tiny square white and black opal bracelet'
+[20/150][279.37s] Optimized prompt: 'Small black and white opal bracelet with square stones'
+Generating image...
+Prompt: Small black and white opal bracelet with square stones, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[20/150][284.41s] Completed save image for prompt, take 8.53s
+
+[21/150][289.41s] Generating image for prompt: 'gold chisel with chips in it'
+[21/150][292.97s] Optimized prompt: 'A gold chisel with chips in it.'
+Generating image...
+Prompt: A gold chisel with chips in it., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[21/150][298.18s] Completed save image for prompt, take 8.77s
+
+[22/150][303.18s] Generating image for prompt: 'clear cylindrical citrine with sunny yellow shade'
+[22/150][308.85s] Optimized prompt: 'Clear cylindrical citrine with bright yellow color'
+Generating image...
+Prompt: Clear cylindrical citrine with bright yellow color, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[22/150][314.56s] Completed save image for prompt, take 11.37s
+
+[23/150][319.56s] Generating image for prompt: 'navy blue soccer cleats studs'
+[23/150][323.49s] Optimized prompt: 'Navy blue soccer cleats with studs'
+Generating image...
+Prompt: Navy blue soccer cleats with studs, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[23/150][329.12s] Completed save image for prompt, take 9.57s
+
+[24/150][334.12s] Generating image for prompt: 'green four-eyed robot holding tool'
+[24/150][337.28s] Optimized prompt: 'Green robot with two eyes holding a tool'
+Generating image...
+Prompt: Green robot with two eyes holding a tool, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[24/150][342.80s] Completed save image for prompt, take 8.68s
+
+[25/150][347.80s] Generating image for prompt: 'spaceship carries booster rockets'
+[25/150][350.61s] Optimized prompt: 'The spaceship has booster rockets.'
+Generating image...
+Prompt: The spaceship has booster rockets., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[25/150][356.12s] Completed save image for prompt, take 8.32s
+
+[26/150][361.12s] Generating image for prompt: 'sophisticated pearl tiara with subtle curves'
+[26/150][364.07s] Optimized prompt: 'Elegant pearl tiara with gentle curves'
+Generating image...
+Prompt: Elegant pearl tiara with gentle curves, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[26/150][369.53s] Completed save image for prompt, take 8.41s
+
+[27/150][374.53s] Generating image for prompt: 'onyx flat broadsword'
+[27/150][377.84s] Optimized prompt: 'Black flat sword'
+Generating image...
+Prompt: Black flat sword, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[27/150][382.94s] Completed save image for prompt, take 8.40s
+
+[28/150][387.94s] Generating image for prompt: 'gold-plated action figure with dynamic pose'
+[28/150][391.68s] Optimized prompt: 'Gold-colored action figure in an active pose.'
+Generating image...
+Prompt: Gold-colored action figure in an active pose., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[28/150][398.13s] Completed save image for prompt, take 10.20s
+
+[29/150][403.13s] Generating image for prompt: 'robot with white square body and blue round head'
+[29/150][406.92s] Optimized prompt: 'A robot with a white square body and a blue round head.'
+Generating image...
+Prompt: A robot with a white square body and a blue round head., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[29/150][420.13s] Completed save image for prompt, take 16.99s
+
+[30/150][425.13s] Generating image for prompt: 'glossy emerald obelisk-shaped gem'
+[30/150][427.92s] Optimized prompt: 'shiny emerald green obelisk-shaped gemstone'
+Generating image...
+Prompt: shiny emerald green obelisk-shaped gemstone, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[30/150][434.11s] Completed save image for prompt, take 8.98s
+
+[31/150][439.11s] Generating image for prompt: 'sleek black robot beside plant pot'
+[31/150][442.19s] Optimized prompt: 'Black robot next to a plant pot'
+Generating image...
+Prompt: Black robot next to a plant pot, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[31/150][447.55s] Completed save image for prompt, take 8.44s
+
+[32/150][452.55s] Generating image for prompt: 'smooth green pear perched atop white napkin'
+[32/150][454.18s] Optimized prompt: 'Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22smooth%20green%20pear%20perched%20atop%20white%20napkin%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100'
+Generating image...
+Prompt: Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22smooth%20green%20pear%20perched%20atop%20white%20napkin%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[32/150][460.53s] Completed save image for prompt, take 7.98s
+
+[33/150][465.53s] Generating image for prompt: 'vintage steel drum adorned with tropical designs'
+[33/150][468.80s] Optimized prompt: 'Vintage steel drum decorated with tropical patterns'
+Generating image...
+Prompt: Vintage steel drum decorated with tropical patterns, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[33/150][486.18s] Completed save image for prompt, take 20.65s
+
+[34/150][491.18s] Generating image for prompt: 'white cotton ball nestled in wooden bowl'
+[34/150][494.65s] Optimized prompt: 'A white cotton ball in a wooden bowl.'
+Generating image...
+Prompt: A white cotton ball in a wooden bowl., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[34/150][500.11s] Completed save image for prompt, take 8.93s
+
+[35/150][505.11s] Generating image for prompt: 'long bench made of metal'
+[35/150][508.41s] Optimized prompt: 'metal bench'
+Generating image...
+Prompt: metal bench, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[35/150][514.74s] Completed save image for prompt, take 9.63s
+
+[36/150][519.74s] Generating image for prompt: 'small curved wooden tool'
+[36/150][522.71s] Optimized prompt: 'tiny bent wooden tool'
+Generating image...
+Prompt: tiny bent wooden tool, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[36/150][528.02s] Completed save image for prompt, take 8.28s
+
+[37/150][533.02s] Generating image for prompt: 'large yellow diamond with chip in it'
+[37/150][536.54s] Optimized prompt: 'Large yellow diamond with a small chip inside'
+Generating image...
+Prompt: Large yellow diamond with a small chip inside, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[37/150][542.12s] Completed save image for prompt, take 9.10s
+
+[38/150][547.12s] Generating image for prompt: 'multi-colored beads on leather string'
+[38/150][550.49s] Optimized prompt: 'Colorful beads on a leather cord'
+Generating image...
+Prompt: Colorful beads on a leather cord, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[38/150][555.80s] Completed save image for prompt, take 8.68s
+
+[39/150][560.80s] Generating image for prompt: 'purple frisbee aerodynamic and disc-shaped'
+[39/150][565.68s] Optimized prompt: 'A disc-shaped purple frisbee designed for smooth movement through the air.'
+Generating image...
+Prompt: A disc-shaped purple frisbee designed for smooth movement through the air., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[39/150][581.35s] Completed save image for prompt, take 20.55s
+
+[40/150][586.35s] Generating image for prompt: 'purple synthetic track shoe'
+[40/150][590.72s] Optimized prompt: 'Purple artificial running shoe'
+Generating image...
+Prompt: Purple artificial running shoe, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[40/150][597.82s] Completed save image for prompt, take 11.47s
+
+[41/150][602.82s] Generating image for prompt: 'matte-black humanoid robot standing in pose of contemplation'
+[41/150][606.20s] Optimized prompt: 'Black humanoid robot standing in a thoughtful pose'
+Generating image...
+Prompt: Black humanoid robot standing in a thoughtful pose, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[41/150][612.44s] Completed save image for prompt, take 9.62s
+
+[42/150][617.44s] Generating image for prompt: 'pinecone on blue spruce branch'
+[42/150][620.87s] Optimized prompt: 'Pine cone on a blue spruce branch'
+Generating image...
+Prompt: Pine cone on a blue spruce branch, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[42/150][627.62s] Completed save image for prompt, take 10.18s
+
+[43/150][632.62s] Generating image for prompt: 'tiny wand wrapped in velvet ribbon'
+[43/150][635.52s] Optimized prompt: 'small wand wrapped with velvet ribbon'
+Generating image...
+Prompt: small wand wrapped with velvet ribbon, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[43/150][641.10s] Completed save image for prompt, take 8.48s
+
+[44/150][646.10s] Generating image for prompt: 'minimalist clear plastic protractor'
+[44/150][649.09s] Optimized prompt: 'Simple plastic protractor'
+Generating image...
+Prompt: Simple plastic protractor, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[44/150][654.50s] Completed save image for prompt, take 8.40s
+
+[45/150][659.50s] Generating image for prompt: 'red vanity mirror'
+[45/150][663.63s] Optimized prompt: 'red mirror'
+Generating image...
+Prompt: red mirror, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[45/150][668.85s] Completed save image for prompt, take 9.35s
+
+[46/150][673.85s] Generating image for prompt: 'glossy yellow fruit bowl deep rimmed'
+[46/150][676.24s] Optimized prompt: 'Yellow glossy fruit bowl with a deep rim'
+Generating image...
+Prompt: Yellow glossy fruit bowl with a deep rim, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[46/150][682.17s] Completed save image for prompt, take 8.32s
+
+[47/150][687.17s] Generating image for prompt: 'opal necklace with sun shape'
+[47/150][690.42s] Optimized prompt: 'Sun-shaped Opal Necklace'
+Generating image...
+Prompt: Sun-shaped Opal Necklace, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[47/150][696.28s] Completed save image for prompt, take 9.11s
+
+[48/150][701.28s] Generating image for prompt: 'blue monkey with yellow face'
+[48/150][705.45s] Optimized prompt: 'Yellow-faced blue monkey'
+Generating image...
+Prompt: Yellow-faced blue monkey, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[48/150][710.51s] Completed save image for prompt, take 9.23s
+
+[49/150][715.51s] Generating image for prompt: 'elegant pearl pendant on dainty chain'
+[49/150][718.40s] Optimized prompt: 'Simple pearl pendant on a thin chain'
+Generating image...
+Prompt: Simple pearl pendant on a thin chain, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[49/150][724.13s] Completed save image for prompt, take 8.62s
+
+[50/150][729.13s] Generating image for prompt: 'warm brown mug of hot chocolate'
+[50/150][732.39s] Optimized prompt: 'Hot chocolate in a warm brown mug'
+Generating image...
+Prompt: Hot chocolate in a warm brown mug, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[50/150][737.56s] Completed save image for prompt, take 8.43s
+
+[51/150][742.56s] Generating image for prompt: 'wizards cloak with golden trim'
+[51/150][746.10s] Optimized prompt: 'Wizard's cloak with gold trim'
+Generating image...
+Prompt: Wizard's cloak with gold trim, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[51/150][760.33s] Completed save image for prompt, take 17.76s
+
+[52/150][765.33s] Generating image for prompt: 'metallic green bow with polished wood limbs'
+[52/150][770.03s] Optimized prompt: 'Shiny green bow with smooth wooden arms'
+Generating image...
+Prompt: Shiny green bow with smooth wooden arms, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[52/150][775.63s] Completed save image for prompt, take 10.30s
+
+[53/150][780.63s] Generating image for prompt: 'prismatic violet tourmaline glows'
+[53/150][783.91s] Optimized prompt: 'Violet tourmaline shines brightly.'
+Generating image...
+Prompt: Violet tourmaline shines brightly., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[53/150][796.52s] Completed save image for prompt, take 15.89s
+
+[54/150][801.52s] Generating image for prompt: 'sniper rifle custom scope with infrared capabilities'
+[54/150][805.20s] Optimized prompt: 'Custom sniper rifle scope with night vision features'
+Generating image...
+Prompt: Custom sniper rifle scope with night vision features, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[54/150][822.17s] Completed save image for prompt, take 20.65s
+
+[55/150][827.17s] Generating image for prompt: 'gray squirrel running briskly'
+[55/150][830.56s] Optimized prompt: 'A gray squirrel jogging quickly.'
+Generating image...
+Prompt: A gray squirrel jogging quickly., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[55/150][837.77s] Completed save image for prompt, take 10.60s
+
+[56/150][842.77s] Generating image for prompt: 'beige robot holding wrench'
+[56/150][847.27s] Optimized prompt: 'A beige robot holding a wrench.'
+Generating image...
+Prompt: A beige robot holding a wrench., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[56/150][865.72s] Completed save image for prompt, take 22.95s
+
+[57/150][870.72s] Generating image for prompt: 'giant red centaur holding shield'
+[57/150][873.90s] Optimized prompt: 'Large red centaur with a shield'
+Generating image...
+Prompt: Large red centaur with a shield, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[57/150][880.34s] Completed save image for prompt, take 9.61s
+
+[58/150][885.34s] Generating image for prompt: 'dagger with ivory handle and golden tip'
+[58/150][889.46s] Optimized prompt: 'Ivory-handled dagger with a gold tip'
+Generating image...
+Prompt: Ivory-handled dagger with a gold tip, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[58/150][896.50s] Completed save image for prompt, take 11.16s
+
+[59/150][901.50s] Generating image for prompt: 'powerful purple hippogriff in fierce battle stance'
+[59/150][905.05s] Optimized prompt: 'A strong purple flying horse in a fierce fighting position.'
+Generating image...
+Prompt: A strong purple flying horse in a fierce fighting position., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[59/150][911.25s] Completed save image for prompt, take 9.75s
+
+[60/150][916.25s] Generating image for prompt: 'vibrant blue feathered phoenix wings spread standing proud on marble pedestal'
+[60/150][921.52s] Optimized prompt: 'Bright blue phoenix wings spread open, standing proudly on a marble base.'
+Generating image...
+Prompt: Bright blue phoenix wings spread open, standing proudly on a marble base., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[60/150][929.59s] Completed save image for prompt, take 13.34s
+
+[61/150][934.59s] Generating image for prompt: 'metallic cylinder with rounded edges'
+[61/150][939.15s] Optimized prompt: 'Smooth-edged metal cylinder'
+Generating image...
+Prompt: Smooth-edged metal cylinder, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[61/150][952.29s] Completed save image for prompt, take 17.70s
+
+[62/150][957.29s] Generating image for prompt: 'metal carving tool set'
+[62/150][960.64s] Optimized prompt: 'metal engraving tool kit'
+Generating image...
+Prompt: metal engraving tool kit, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[62/150][968.18s] Completed save image for prompt, take 10.89s
+
+[63/150][973.19s] Generating image for prompt: 'elegant gold ring featuring sapphire centerpiece'
+[63/150][977.32s] Optimized prompt: 'Simple gold ring with a blue gemstone center.'
+Generating image...
+Prompt: Simple gold ring with a blue gemstone center., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[63/150][982.86s] Completed save image for prompt, take 9.68s
+
+[64/150][987.86s] Generating image for prompt: 'lustrous white opal shard'
+[64/150][991.70s] Optimized prompt: 'Shiny white opal fragment'
+Generating image...
+Prompt: Shiny white opal fragment, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[64/150][997.15s] Completed save image for prompt, take 9.29s
+
+[65/150][1002.15s] Generating image for prompt: 'mortar tube loaded ready for launch'
+[65/150][1005.80s] Optimized prompt: 'Mortar tube loaded and ready to fire.'
+Generating image...
+Prompt: Mortar tube loaded and ready to fire., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Error fetching image: 502 Server Error: Bad Gateway for url: https://image.pollinations.ai/prompt/Mortar%20tube%20loaded%20and%20ready%20to%20fire.%2C%20in%20huge%20black%20space%2C%20toy-like%20appearance.%20It%20is%20fresh-color%2C%20non%20reflective%2C%20solid%20texture%2C%20opaque%20fabric.%20It%20is%20a%20game%20asset.%20It%20has%20a%20smooth%2C%20stylized%2C%20low-poly%20design%2C%20with%20minimalist%20details%20and%20rounded%20edges.%20It%20is%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle.%20The%20main%20color%20for%20the%20parts%20that%20are%20not%20clearly%20described%20will%20be%20red.?width=1024&height=1024&seed=100&model=flux&nologo=true
+[65/150][1013.14s] Completed save image for prompt, take 10.99s
+
+[66/150][1018.14s] Generating image for prompt: 'compact green bamboo cabinet'
+[66/150][1020.97s] Optimized prompt: 'Small green bamboo storage cupboard'
+Generating image...
+Prompt: Small green bamboo storage cupboard, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Error fetching image: 502 Server Error: Bad Gateway for url: https://image.pollinations.ai/prompt/Small%20green%20bamboo%20storage%20cupboard%2C%20in%20huge%20black%20space%2C%20toy-like%20appearance.%20It%20is%20fresh-color%2C%20non%20reflective%2C%20solid%20texture%2C%20opaque%20fabric.%20It%20is%20a%20game%20asset.%20It%20has%20a%20smooth%2C%20stylized%2C%20low-poly%20design%2C%20with%20minimalist%20details%20and%20rounded%20edges.%20It%20is%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle.%20The%20main%20color%20for%20the%20parts%20that%20are%20not%20clearly%20described%20will%20be%20red.?width=1024&height=1024&seed=100&model=flux&nologo=true
+[66/150][1022.22s] Completed save image for prompt, take 4.08s
+
+[67/150][1027.22s] Generating image for prompt: 'donut with flames'
+[67/150][1030.68s] Optimized prompt: 'Donut with fire flames'
+Generating image...
+Prompt: Donut with fire flames, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[67/150][1033.60s] Completed save image for prompt, take 6.38s
+
+[68/150][1038.60s] Generating image for prompt: 'clay pot with rim chips'
+[68/150][1042.23s] Optimized prompt: 'Clay pot with chipped rim'
+Generating image...
+Prompt: Clay pot with chipped rim, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[68/150][1048.68s] Completed save image for prompt, take 10.08s
+
+[69/150][1053.68s] Generating image for prompt: 'colorful macaron set on silver tray'
+[69/150][1057.18s] Optimized prompt: 'Bright macarons on a silver tray'
+Generating image...
+Prompt: Bright macarons on a silver tray, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[69/150][1062.56s] Completed save image for prompt, take 8.88s
+
+[70/150][1067.56s] Generating image for prompt: 'silvery-white robot embodying modern simplicity'
+[70/150][1072.15s] Optimized prompt: 'A shiny white robot representing modern simplicity.'
+Generating image...
+Prompt: A shiny white robot representing modern simplicity., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[70/150][1088.97s] Completed save image for prompt, take 21.41s
+
+[71/150][1093.97s] Generating image for prompt: 'colorful kaleidoscope-shaped glass ornament'
+[71/150][1097.65s] Optimized prompt: 'colorful, kaleidoscope-shaped glass ornament'
+Generating image...
+Prompt: colorful, kaleidoscope-shaped glass ornament, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[71/150][1103.98s] Completed save image for prompt, take 10.01s
+
+[72/150][1108.98s] Generating image for prompt: 'artillery piece in sandbags'
+[72/150][1114.75s] Optimized prompt: 'artillery gun surrounded by sandbags'
+Generating image...
+Prompt: artillery gun surrounded by sandbags, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[72/150][1132.70s] Completed save image for prompt, take 23.72s
+
+[73/150][1137.70s] Generating image for prompt: 'translucent hexagonal quartz piece in pale yellow tone'
+[73/150][1142.81s] Optimized prompt: 'Light yellow, see-through hexagonal quartz crystal'
+Generating image...
+Prompt: Light yellow, see-through hexagonal quartz crystal, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[73/150][1156.75s] Completed save image for prompt, take 19.05s
+
+[74/150][1161.75s] Generating image for prompt: 'tall purple plastic spaceship'
+[74/150][1165.62s] Optimized prompt: 'Purple plastic tall spaceship'
+Generating image...
+Prompt: Purple plastic tall spaceship, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[74/150][1180.50s] Completed save image for prompt, take 18.76s
 
-[2/150][15.65s] Generating image for prompt: 'dark brown hockey stick with black tape'
-[2/150][25.79s] Optimized prompt: 'Dark brown hockey stick wrapped with black tape'
-Generating image...
-Prompt: Dark brown hockey stick wrapped with black tape, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_002_Dark_brown_hockey_stick_wrapped_with_black_tape__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[2/150][42.61s] Completed save image for prompt, take 26.96s
+[75/150][1185.50s] Generating image for prompt: 'smooth brown obsidian bracelet'
+[75/150][1188.99s] Optimized prompt: 'Plain brown obsidian bracelet'
+Generating image...
+Prompt: Plain brown obsidian bracelet, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[75/150][1199.01s] Completed save image for prompt, take 13.50s
+
+[76/150][1204.01s] Generating image for prompt: 'azure yellow mushroom'
+[76/150][1210.69s] Optimized prompt: 'Yellow mushroom'
+Generating image...
+Prompt: Yellow mushroom, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[76/150][1226.23s] Completed save image for prompt, take 22.23s
+
+[77/150][1231.23s] Generating image for prompt: 'table tennis paddle with red surface'
+[77/150][1235.34s] Optimized prompt: 'Red surface table tennis paddle'
+Generating image...
+Prompt: Red surface table tennis paddle, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[77/150][1241.98s] Completed save image for prompt, take 10.75s
+
+[78/150][1246.98s] Generating image for prompt: 'smooth purple robot adorned with golden symbols'
+[78/150][1253.32s] Optimized prompt: 'A sleek purple robot decorated with gold symbols.'
+Generating image...
+Prompt: A sleek purple robot decorated with gold symbols., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[78/150][1259.55s] Completed save image for prompt, take 12.57s
+
+[79/150][1264.55s] Generating image for prompt: 'iridescent purple crystal pointed tip'
+[79/150][1268.52s] Optimized prompt: 'shiny purple crystal with a pointed tip'
+Generating image...
+Prompt: shiny purple crystal with a pointed tip, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[79/150][1274.15s] Completed save image for prompt, take 9.60s
+
+[80/150][1279.15s] Generating image for prompt: 'ornamental ivory horned helmet'
+[80/150][1282.60s] Optimized prompt: 'decorative ivory helmet with horns'
+Generating image...
+Prompt: decorative ivory helmet with horns, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[80/150][1295.97s] Completed save image for prompt, take 16.82s
+
+[81/150][1300.97s] Generating image for prompt: 'purple felt puzzle piece'
+[81/150][1304.43s] Optimized prompt: 'Purple felt puzzle piece'
+Generating image...
+Prompt: Purple felt puzzle piece, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[81/150][1310.18s] Completed save image for prompt, take 9.21s
+
+[82/150][1315.18s] Generating image for prompt: 'grey lamp with pink stripes'
+[82/150][1319.01s] Optimized prompt: 'Gray lamp with pink stripes'
+Generating image...
+Prompt: Gray lamp with pink stripes, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[82/150][1333.99s] Completed save image for prompt, take 18.81s
+
+[83/150][1338.99s] Generating image for prompt: 'blue earring with leaf-shaped stone'
+[83/150][1343.08s] Optimized prompt: 'Blue earring with a leaf-shaped stone'
+Generating image...
+Prompt: Blue earring with a leaf-shaped stone, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[83/150][1349.13s] Completed save image for prompt, take 10.14s
+
+[84/150][1354.13s] Generating image for prompt: 'heart-shaped pendant in gold'
+[84/150][1357.07s] Optimized prompt: 'Gold heart-shaped pendant'
+Generating image...
+Prompt: Gold heart-shaped pendant, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[84/150][1362.25s] Completed save image for prompt, take 8.12s
+
+[85/150][1367.25s] Generating image for prompt: 'opal brooch with alligator clip closure'
+[85/150][1368.40s] Optimized prompt: 'Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22opal%20brooch%20with%20alligator%20clip%20closure%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100'
+Generating image...
+Prompt: Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22opal%20brooch%20with%20alligator%20clip%20closure%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[85/150][1380.34s] Completed save image for prompt, take 13.09s
+
+[86/150][1385.34s] Generating image for prompt: 'greek bowl painted with red and black figures'
+[86/150][1388.59s] Optimized prompt: 'Red and black decorated Greek bowl'
+Generating image...
+Prompt: Red and black decorated Greek bowl, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[86/150][1400.25s] Completed save image for prompt, take 14.91s
+
+[87/150][1405.25s] Generating image for prompt: 'brown dagger with ebony tip'
+[87/150][1408.95s] Optimized prompt: 'Brown dagger with black tip'
+Generating image...
+Prompt: Brown dagger with black tip, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[87/150][1416.11s] Completed save image for prompt, take 10.86s
+
+[88/150][1421.11s] Generating image for prompt: 'glossy blue baseball bat with engraved logo'
+[88/150][1426.16s] Optimized prompt: 'Shiny blue baseball bat with a carved logo'
+Generating image...
+Prompt: Shiny blue baseball bat with a carved logo, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[88/150][1431.44s] Completed save image for prompt, take 10.33s
+
+[89/150][1436.44s] Generating image for prompt: 'stone elephant tusks curved in tranquil pose'
+[89/150][1440.91s] Optimized prompt: 'A calm stone elephant with curved tusks.'
+Generating image...
+Prompt: A calm stone elephant with curved tusks., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[89/150][1456.13s] Completed save image for prompt, take 19.69s
+
+[90/150][1461.13s] Generating image for prompt: 'robot wearing red sphere'
+[90/150][1465.59s] Optimized prompt: 'Red-sphere-wearing robot'
+Generating image...
+Prompt: Red-sphere-wearing robot, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[90/150][1471.70s] Completed save image for prompt, take 10.57s
+
+[91/150][1476.70s] Generating image for prompt: 'platinum bullet casing'
+[91/150][1482.40s] Optimized prompt: 'Platinum bullet shell'
+Generating image...
+Prompt: Platinum bullet shell, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[91/150][1488.98s] Completed save image for prompt, take 12.28s
+
+[92/150][1493.98s] Generating image for prompt: 'tiny robot in pink overalls'
+[92/150][1497.42s] Optimized prompt: 'small robot in pink overalls'
+Generating image...
+Prompt: small robot in pink overalls, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[92/150][1504.90s] Completed save image for prompt, take 10.91s
+
+[93/150][1509.90s] Generating image for prompt: 'large wooden shelf with candles and tea lights'
+[93/150][1513.16s] Optimized prompt: 'Large wooden shelf holding candles and tea lights.'
+Generating image...
+Prompt: Large wooden shelf holding candles and tea lights., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[93/150][1518.81s] Completed save image for prompt, take 8.92s
+
+[94/150][1523.81s] Generating image for prompt: 'black goblet with runes'
+[94/150][1527.97s] Optimized prompt: 'Black goblet with runes'
+Generating image...
+Prompt: Black goblet with runes, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[94/150][1534.24s] Completed save image for prompt, take 10.43s
+
+[95/150][1539.24s] Generating image for prompt: 'gold choker with heart-shaped pendant'
+[95/150][1541.83s] Optimized prompt: 'Gold necklace with a heart-shaped pendant'
+Generating image...
+Prompt: Gold necklace with a heart-shaped pendant, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[95/150][1547.65s] Completed save image for prompt, take 8.41s
+
+[96/150][1552.65s] Generating image for prompt: 'polished titanium fishing hook'
+[96/150][1555.98s] Optimized prompt: 'Shiny titanium fishing hook'
+Generating image...
+Prompt: Shiny titanium fishing hook, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[96/150][1561.75s] Completed save image for prompt, take 9.10s
+
+[97/150][1566.75s] Generating image for prompt: 'lavender-hued cupcake with swirl pattern'
+[97/150][1569.71s] Optimized prompt: 'Purple cupcake with a swirling design'
+Generating image...
+Prompt: Purple cupcake with a swirling design, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[97/150][1576.08s] Completed save image for prompt, take 9.33s
+
+[98/150][1581.08s] Generating image for prompt: 'green robot in star pose'
+[98/150][1583.95s] Optimized prompt: 'Green robot standing with arms and legs spread apart in a star shape'
+Generating image...
+Prompt: Green robot standing with arms and legs spread apart in a star shape, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[98/150][1597.63s] Completed save image for prompt, take 16.55s
+
+[99/150][1602.63s] Generating image for prompt: 'pear-shaped milky opal with iridescent glow'
+[99/150][1605.26s] Optimized prompt: 'Pear-shaped white opal with a shimmering, rainbow-like glow.'
+Generating image...
+Prompt: Pear-shaped white opal with a shimmering, rainbow-like glow., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[99/150][1630.46s] Completed save image for prompt, take 27.83s
+
+[100/150][1635.46s] Generating image for prompt: 'turquoise android robot with expressive face'
+[100/150][1639.44s] Optimized prompt: 'A turquoise robot with an expressive face.'
+Generating image...
+Prompt: A turquoise robot with an expressive face., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[100/150][1645.56s] Completed save image for prompt, take 10.10s
+
+[101/150][1650.56s] Generating image for prompt: 'cup brimming with frothy minty mojito'
+[101/150][1654.16s] Optimized prompt: 'A cup full of bubbly, mint-flavored mojito.'
+Generating image...
+Prompt: A cup full of bubbly, mint-flavored mojito., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[101/150][1661.68s] Completed save image for prompt, take 11.12s
+
+[102/150][1666.68s] Generating image for prompt: 'high-tech explorer ship equipped with scanning lasers'
+[102/150][1670.78s] Optimized prompt: 'futuristic exploration ship with scanning lasers'
+Generating image...
+Prompt: futuristic exploration ship with scanning lasers, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[102/150][1684.82s] Completed save image for prompt, take 18.14s
+
+[103/150][1689.82s] Generating image for prompt: 'glossy emerald gemstone carved into oval shape'
+[103/150][1692.87s] Optimized prompt: 'Shiny emerald gemstone shaped into an oval.'
+Generating image...
+Prompt: Shiny emerald gemstone shaped into an oval., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[103/150][1699.15s] Completed save image for prompt, take 9.33s
+
+[104/150][1704.15s] Generating image for prompt: 'pleated khaki pants wide leg fit'
+[104/150][1707.52s] Optimized prompt: 'Wide-leg pleated khaki pants'
+Generating image...
+Prompt: Wide-leg pleated khaki pants, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[104/150][1720.87s] Completed save image for prompt, take 16.72s
+
+[105/150][1725.87s] Generating image for prompt: 'model airplane red and white striped'
+[105/150][1729.46s] Optimized prompt: 'Red and white striped toy airplane'
+Generating image...
+Prompt: Red and white striped toy airplane, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[105/150][1745.87s] Completed save image for prompt, take 20.00s
+
+[106/150][1750.87s] Generating image for prompt: 'measuring tape coiled'
+[106/150][1754.15s] Optimized prompt: 'Coiled measuring tape'
+Generating image...
+Prompt: Coiled measuring tape, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[106/150][1768.11s] Completed save image for prompt, take 17.24s
+
+[107/150][1773.11s] Generating image for prompt: 'lustered gold topaz prism'
+[107/150][1776.61s] Optimized prompt: 'Shiny gold and blue topaz gemstone prism'
+Generating image...
+Prompt: Shiny gold and blue topaz gemstone prism, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[107/150][1794.11s] Completed save image for prompt, take 21.00s
+
+[108/150][1799.11s] Generating image for prompt: 'wide and tall wooden table with two chairs on either side of it'
+[108/150][1802.65s] Optimized prompt: 'A large wooden table with two chairs on each side.'
+Generating image...
+Prompt: A large wooden table with two chairs on each side., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[108/150][1815.72s] Completed save image for prompt, take 16.61s
+
+[109/150][1820.72s] Generating image for prompt: 'jet-black robot with smooth surfaces'
+[109/150][1823.94s] Optimized prompt: 'a shiny black robot with smooth surfaces'
+Generating image...
+Prompt: a shiny black robot with smooth surfaces, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[109/150][1830.65s] Completed save image for prompt, take 9.93s
+
+[110/150][1835.65s] Generating image for prompt: 'gold band with star pattern'
+[110/150][1838.56s] Optimized prompt: 'Gold ring with a star design'
+Generating image...
+Prompt: Gold ring with a star design, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[110/150][1844.53s] Completed save image for prompt, take 8.88s
+
+[111/150][1849.53s] Generating image for prompt: 'dull grey rusty scimitar with jagged edge'
+[111/150][1853.10s] Optimized prompt: 'A dull gray rusty sword with a jagged edge.'
+Generating image...
+Prompt: A dull gray rusty sword with a jagged edge., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[111/150][1873.09s] Completed save image for prompt, take 23.56s
 
-[3/150][47.61s] Generating image for prompt: 'streamlined red turbine base'
-[3/150][48.39s] Optimized prompt: 'Red turbine base'
-Generating image...
-Prompt: Red turbine base, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_003_Red_turbine_base__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[3/150][53.99s] Completed save image for prompt, take 6.38s
+[112/150][1878.09s] Generating image for prompt: 'glossy gold cylindrical bot balanced on its side'
+[112/150][1881.63s] Optimized prompt: 'A shiny gold cylindrical robot lying on its side.'
+Generating image...
+Prompt: A shiny gold cylindrical robot lying on its side., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[112/150][1901.00s] Completed save image for prompt, take 22.90s
+
+[113/150][1906.00s] Generating image for prompt: 'silver tongs on countertop'
+[113/150][1909.91s] Optimized prompt: 'Silver tongs on a countertop'
+Generating image...
+Prompt: Silver tongs on a countertop, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[113/150][1918.06s] Completed save image for prompt, take 12.06s
+
+[114/150][1923.06s] Generating image for prompt: 'yellow cylindrical shield'
+[114/150][1926.31s] Optimized prompt: 'Yellow round shield'
+Generating image...
+Prompt: Yellow round shield, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Error fetching image: 502 Server Error: Bad Gateway for url: https://image.pollinations.ai/prompt/Yellow%20round%20shield%2C%20in%20huge%20black%20space%2C%20toy-like%20appearance.%20It%20is%20fresh-color%2C%20non%20reflective%2C%20solid%20texture%2C%20opaque%20fabric.%20It%20is%20a%20game%20asset.%20It%20has%20a%20smooth%2C%20stylized%2C%20low-poly%20design%2C%20with%20minimalist%20details%20and%20rounded%20edges.%20It%20is%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle.%20The%20main%20color%20for%20the%20parts%20that%20are%20not%20clearly%20described%20will%20be%20red.?width=1024&height=1024&seed=100&model=flux&nologo=true
+[114/150][1927.52s] Completed save image for prompt, take 4.46s
+
+[115/150][1932.52s] Generating image for prompt: 'metallic droid featuring polished gold finish'
+[115/150][1936.58s] Optimized prompt: 'Shiny gold robot with a smooth, metallic surface'
+Generating image...
+Prompt: Shiny gold robot with a smooth, metallic surface, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[115/150][1940.23s] Completed save image for prompt, take 7.71s
+
+[116/150][1945.23s] Generating image for prompt: 'orange peeler placed beside bowl'
+[116/150][1949.00s] Optimized prompt: 'Orange peeler next to a bowl.'
+Generating image...
+Prompt: Orange peeler next to a bowl., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[116/150][1963.02s] Completed save image for prompt, take 17.78s
+
+[117/150][1968.02s] Generating image for prompt: 'cyan hovercraft with inflatable pontoons and canopy'
+[117/150][1971.52s] Optimized prompt: 'Cyan hovercraft with inflatable pontoons and a canopy'
+Generating image...
+Prompt: Cyan hovercraft with inflatable pontoons and a canopy, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[117/150][1976.93s] Completed save image for prompt, take 8.91s
+
+[118/150][1981.93s] Generating image for prompt: 'white oven mitt hanging from handle'
+[118/150][1985.52s] Optimized prompt: 'White oven mitt hanging from a handle.'
+Generating image...
+Prompt: White oven mitt hanging from a handle., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[118/150][1999.64s] Completed save image for prompt, take 17.71s
+
+[119/150][2004.65s] Generating image for prompt: 'silk gloves white soft touch'
+[119/150][2009.34s] Optimized prompt: 'White silk gloves with a soft touch'
+Generating image...
+Prompt: White silk gloves with a soft touch, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[119/150][2015.97s] Completed save image for prompt, take 11.32s
+
+[120/150][2020.97s] Generating image for prompt: 'sapphire shell encasing golden cyborg heart'
+[120/150][2025.05s] Optimized prompt: 'A blue shell protecting a golden robot heart.'
+Generating image...
+Prompt: A blue shell protecting a golden robot heart., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[120/150][2041.26s] Completed save image for prompt, take 20.30s
+
+[121/150][2046.26s] Generating image for prompt: 'silvery white trapezoidal robot'
+[121/150][2050.39s] Optimized prompt: 'A shiny white robot with a trapezoid-shaped body.'
+Generating image...
+Prompt: A shiny white robot with a trapezoid-shaped body., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[121/150][2065.52s] Completed save image for prompt, take 19.26s
+
+[122/150][2070.52s] Generating image for prompt: 'blue dragon with grey horns'
+[122/150][2074.67s] Optimized prompt: 'Blue dragon with gray horns'
+Generating image...
+Prompt: Blue dragon with gray horns, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[122/150][2080.47s] Completed save image for prompt, take 9.95s
+
+[123/150][2085.47s] Generating image for prompt: 'plastic bucket holding gardening tools'
+[123/150][2090.72s] Optimized prompt: 'Plastic bucket with gardening tools'
+Generating image...
+Prompt: Plastic bucket with gardening tools, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[123/150][2096.59s] Completed save image for prompt, take 11.12s
+
+[124/150][2101.59s] Generating image for prompt: 'opal ring featuring swirling pattern'
+[124/150][2104.80s] Optimized prompt: 'Opal ring with a swirling design'
+Generating image...
+Prompt: Opal ring with a swirling design, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[124/150][2110.13s] Completed save image for prompt, take 8.54s
+
+[125/150][2115.13s] Generating image for prompt: 'purple orb embedded with stars'
+[125/150][2118.04s] Optimized prompt: 'Purple sphere decorated with stars'
+Generating image...
+Prompt: Purple sphere decorated with stars, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[125/150][2128.70s] Completed save image for prompt, take 13.57s
+
+[126/150][2133.70s] Generating image for prompt: 'tall vase with long stem and wide base'
+[126/150][2137.47s] Optimized prompt: 'Tall vase with a long stem and a wide bottom'
+Generating image...
+Prompt: Tall vase with a long stem and a wide bottom, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[126/150][2144.18s] Completed save image for prompt, take 10.49s
+
+[127/150][2149.18s] Generating image for prompt: 'phoenician amphora painted with seafaring scenes'
+[127/150][2152.48s] Optimized prompt: 'Painted Phoenician jar showing scenes of sailing and the sea'
+Generating image...
+Prompt: Painted Phoenician jar showing scenes of sailing and the sea, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[127/150][2164.82s] Completed save image for prompt, take 15.63s
+
+[128/150][2169.82s] Generating image for prompt: 'goblin wielding rusted curved sword'
+[128/150][2173.87s] Optimized prompt: 'A goblin holding a rusty, curved sword.'
+Generating image...
+Prompt: A goblin holding a rusty, curved sword., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[128/150][2179.40s] Completed save image for prompt, take 9.59s
+
+[129/150][2184.40s] Generating image for prompt: 'goblin with mischievous grin red cap'
+[129/150][2187.78s] Optimized prompt: 'A mischievous goblin with a red hat and a playful grin.'
+Generating image...
+Prompt: A mischievous goblin with a red hat and a playful grin., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[129/150][2199.70s] Completed save image for prompt, take 15.30s
+
+[130/150][2204.70s] Generating image for prompt: 'sleek curved knife in black'
+[130/150][2208.17s] Optimized prompt: 'Black curved knife'
+Generating image...
+Prompt: Black curved knife, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[130/150][2220.85s] Completed save image for prompt, take 16.15s
 
-[4/150][58.99s] Generating image for prompt: 'metallic griffin holding golden treasure chest tightly'
-[4/150][68.92s] Optimized prompt: 'A metallic griffin holding a gold treasure chest tightly.'
-Generating image...
-Prompt: A metallic griffin holding a gold treasure chest tightly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_004_A_metallic_griffin_holding_a_gold_treasure_chest_tightly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[4/150][75.52s] Completed save image for prompt, take 16.53s
+[131/150][2225.85s] Generating image for prompt: 'polished scissors in metal stand'
+[131/150][2229.77s] Optimized prompt: 'Shiny scissors in a metal holder'
+Generating image...
+Prompt: Shiny scissors in a metal holder, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[131/150][2235.18s] Completed save image for prompt, take 9.32s
+
+[132/150][2240.18s] Generating image for prompt: 'elegant volleyball uniform style'
+[132/150][2243.33s] Optimized prompt: 'Simple and stylish volleyball uniform design'
+Generating image...
+Prompt: Simple and stylish volleyball uniform design, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[132/150][2255.15s] Completed save image for prompt, take 14.98s
+
+[133/150][2260.15s] Generating image for prompt: 'modern glass vase holding single white lily bloom'
+[133/150][2263.62s] Optimized prompt: 'Clear glass vase with a single white lily blossom'
+Generating image...
+Prompt: Clear glass vase with a single white lily blossom, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[133/150][2268.66s] Completed save image for prompt, take 8.51s
+
+[134/150][2273.66s] Generating image for prompt: 'statue of lion made of ceramic'
+[134/150][2275.23s] Optimized prompt: 'Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22statue%20of%20lion%20made%20of%20ceramic%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100'
+Generating image...
+Prompt: Error fetching text: 502 Server Error: Bad Gateway for url: https://text.pollinations.ai/Optimize%20the%20following%20statement%3A%20%22statue%20of%20lion%20made%20of%20ceramic%22%2C%20replace%20confusing%20words%20with%20simpler%20alternatives%2C%20keep%20the%20meaning%20but%20change%20the%20wording%20if%20needed%20to%20improve%20clarity%20and%20conciseness%2C%20and%20easy%20understanding%2C%20and%20remove%20the%20surrounding%20environment%2C%20background.%20Return%20only%20the%20optimized%20prompt%20in%20response%2C%20no%20other%20text.?model=openai&seed=100, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[134/150][2286.96s] Completed save image for prompt, take 13.30s
+
+[135/150][2291.96s] Generating image for prompt: 'gold-plated robot with octagonal head'
+[135/150][2295.55s] Optimized prompt: 'A gold-colored robot with an octagonal head'
+Generating image...
+Prompt: A gold-colored robot with an octagonal head, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[135/150][2301.63s] Completed save image for prompt, take 9.67s
+
+[136/150][2306.63s] Generating image for prompt: 'turquoise spherical drone robot'
+[136/150][2310.06s] Optimized prompt: 'Blue round drone robot'
+Generating image...
+Prompt: Blue round drone robot, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[136/150][2325.34s] Completed save image for prompt, take 18.72s
+
+[137/150][2330.34s] Generating image for prompt: 'wooden saw with sharp blade and handle for gripping'
+[137/150][2333.83s] Optimized prompt: 'Wooden saw with a sharp blade and a handle for gripping.'
+Generating image...
+Prompt: Wooden saw with a sharp blade and a handle for gripping., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[137/150][2347.57s] Completed save image for prompt, take 17.23s
+
+[138/150][2352.57s] Generating image for prompt: 'futuristic black shuttle with transparent cockpit windows'
+[138/150][2356.07s] Optimized prompt: 'Black futuristic shuttle with clear cockpit windows'
+Generating image...
+Prompt: Black futuristic shuttle with clear cockpit windows, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[138/150][2370.81s] Completed save image for prompt, take 18.24s
+
+[139/150][2375.81s] Generating image for prompt: 'sturdy dahlia flower with petals in gradient hues'
+[139/150][2378.95s] Optimized prompt: 'Strong dahlia flower with petals in smooth color transitions'
+Generating image...
+Prompt: Strong dahlia flower with petals in smooth color transitions, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[139/150][2392.83s] Completed save image for prompt, take 17.02s
+
+[140/150][2397.83s] Generating image for prompt: 'standing angel in gold and white'
+[140/150][2401.21s] Optimized prompt: 'Angel standing in gold and white robes'
+Generating image...
+Prompt: Angel standing in gold and white robes, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[140/150][2406.79s] Completed save image for prompt, take 8.97s
+
+[141/150][2411.79s] Generating image for prompt: 'roman amphora wide mouthed'
+[141/150][2416.33s] Optimized prompt: 'Wide-mouthed Roman amphora'
+Generating image...
+Prompt: Wide-mouthed Roman amphora, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[141/150][2432.37s] Completed save image for prompt, take 20.58s
+
+[142/150][2437.37s] Generating image for prompt: 'heavy-duty leatherwork awl'
+[142/150][2442.65s] Optimized prompt: 'Sturdy leatherworking awl'
+Generating image...
+Prompt: Sturdy leatherworking awl, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[142/150][2448.15s] Completed save image for prompt, take 10.78s
+
+[143/150][2453.15s] Generating image for prompt: 'mortar launcher in trench'
+[143/150][2456.72s] Optimized prompt: 'Trench with a mortar launcher'
+Generating image...
+Prompt: Trench with a mortar launcher, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[143/150][2469.32s] Completed save image for prompt, take 16.16s
+
+[144/150][2474.32s] Generating image for prompt: 'tiny gold-plated reclining mermaid statue'
+[144/150][2477.12s] Optimized prompt: 'Small gold-coated mermaid statue reclining'
+Generating image...
+Prompt: Small gold-coated mermaid statue reclining, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[144/150][2490.04s] Completed save image for prompt, take 15.72s
 
-[5/150][80.52s] Generating image for prompt: 'yellow textured triangular pencil holder'
-[5/150][81.45s] Optimized prompt: 'Yellow, textured triangular pencil holder'
-Generating image...
-Prompt: Yellow, textured triangular pencil holder, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_005_Yellow__textured_triangular_pencil_holder__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[5/150][87.98s] Completed save image for prompt, take 7.46s
+[145/150][2495.04s] Generating image for prompt: 'green emerald that sparkles in sunlight'
+[145/150][2498.31s] Optimized prompt: 'A shiny green emerald reflecting sunlight.'
+Generating image...
+Prompt: A shiny green emerald reflecting sunlight., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[145/150][2503.59s] Completed save image for prompt, take 8.55s
+
+[146/150][2508.59s] Generating image for prompt: 'gleaming sapphire hexagon perched on silver platter'
+[146/150][2512.28s] Optimized prompt: 'A shiny blue hexagon on a silver plate.'
+Generating image...
+Prompt: A shiny blue hexagon on a silver plate., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[146/150][2517.47s] Completed save image for prompt, take 8.88s
+
+[147/150][2522.47s] Generating image for prompt: 'pink box of chocolates with strawberries and raspberries'
+[147/150][2525.72s] Optimized prompt: 'Pink box of chocolates with strawberries and raspberries'
+Generating image...
+Prompt: Pink box of chocolates with strawberries and raspberries, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[147/150][2531.05s] Completed save image for prompt, take 8.57s
 
-[6/150][92.98s] Generating image for prompt: 'teal fabric scissors with curved blades'
-[6/150][93.80s] Optimized prompt: 'Teal fabric scissors with curved blades'
-Generating image...
-Prompt: Teal fabric scissors with curved blades, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_006_Teal_fabric_scissors_with_curved_blades__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[6/150][108.54s] Completed save image for prompt, take 15.56s
+[148/150][2536.05s] Generating image for prompt: 'small wooden stool with blue cushion and white flowers'
+[148/150][2540.10s] Optimized prompt: 'Small wooden stool with a blue cushion and white flowers.'
+Generating image...
+Prompt: Small wooden stool with a blue cushion and white flowers., in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[148/150][2546.33s] Completed save image for prompt, take 10.28s
+
+[149/150][2551.33s] Generating image for prompt: 'flat-bladed rectangular shovel face'
+[149/150][2554.14s] Optimized prompt: 'rectangular shovel with a flat blade'
+Generating image...
+Prompt: rectangular shovel with a flat blade, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[149/150][2561.54s] Completed save image for prompt, take 10.21s
+
+[150/150][2566.54s] Generating image for prompt: 'green tea bag in cup steeping liquid'
+[150/150][2570.79s] Optimized prompt: 'Green tea bag steeping in a cup of water'
+Generating image...
+Prompt: Green tea bag steeping in a cup of water, in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red.
+Saving image to results
+[150/150][2577.72s] Completed save image for prompt, take 11.18s
 
-[7/150][113.54s] Generating image for prompt: 'jagged obsidian rock darkly reflecting light'
-[7/150][114.41s] Optimized prompt: 'A dark, jagged piece of obsidian reflecting light.'
-Generating image...
-Prompt: A dark, jagged piece of obsidian reflecting light., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_007_A_dark__jagged_piece_of_obsidian_reflecting_light___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[7/150][120.02s] Completed save image for prompt, take 6.48s
-
-[8/150][125.02s] Generating image for prompt: 'glossy white compact robot model'
-[8/150][125.98s] Optimized prompt: 'Shiny white small robot model'
-Generating image...
-Prompt: Shiny white small robot model, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_008_Shiny_white_small_robot_model__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[8/150][136.63s] Completed save image for prompt, take 11.62s
-
-[9/150][141.63s] Generating image for prompt: 'tall white vase with fresh flowers in it'
-[9/150][144.05s] Optimized prompt: 'Tall white vase with fresh flowers'
-Generating image...
-Prompt: Tall white vase with fresh flowers, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_009_Tall_white_vase_with_fresh_flowers__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[9/150][161.77s] Completed save image for prompt, take 20.14s
-
-[10/150][166.77s] Generating image for prompt: 'shiny white crystal with iridescent colors'
-[10/150][168.26s] Optimized prompt: 'Shiny white crystal with rainbow-like colors'
-Generating image...
-Prompt: Shiny white crystal with rainbow-like colors, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_010_Shiny_white_crystal_with_rainbow_like_colors__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[10/150][185.01s] Completed save image for prompt, take 18.23s
-
-[11/150][190.01s] Generating image for prompt: 'pink heart-shaped toadstool in woods'
-[11/150][191.09s] Optimized prompt: 'A pink heart-shaped mushroom.'
-Generating image...
-Prompt: A pink heart-shaped mushroom., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_011_A_pink_heart_shaped_mushroom___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[11/150][207.75s] Completed save image for prompt, take 17.75s
-
-[12/150][212.75s] Generating image for prompt: 'iridescent gold griffin standing proud'
-[12/150][214.05s] Optimized prompt: 'Shining gold griffin standing proudly'
-Generating image...
-Prompt: Shining gold griffin standing proudly, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_012_Shining_gold_griffin_standing_proudly__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[12/150][236.72s] Completed save image for prompt, take 23.97s
-
-[13/150][241.72s] Generating image for prompt: 'platinum earring sparkles faintly'
-[13/150][243.60s] Optimized prompt: 'A platinum earring shines softly.'
-Generating image...
-Prompt: A platinum earring shines softly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_013_A_platinum_earring_shines_softly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[13/150][257.26s] Completed save image for prompt, take 15.54s
-
-[14/150][262.26s] Generating image for prompt: 'vintage doll with curly hair twirling around'
-[14/150][263.35s] Optimized prompt: 'Vintage doll with curly hair spinning around'
-Generating image...
-Prompt: Vintage doll with curly hair spinning around, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_014_Vintage_doll_with_curly_hair_spinning_around__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[14/150][281.43s] Completed save image for prompt, take 19.18s
-
-[15/150][286.43s] Generating image for prompt: 'glossy purple grape bunch on stem'
-[15/150][288.74s] Optimized prompt: 'Glossy purple grape cluster on stem'
-Generating image...
-Prompt: Glossy purple grape cluster on stem, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_015_Glossy_purple_grape_cluster_on_stem__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[15/150][299.93s] Completed save image for prompt, take 13.50s
-
-[16/150][304.93s] Generating image for prompt: 'jade bangle with mother of pearl inlay'
-[16/150][306.60s] Optimized prompt: 'Jade bangle with pearl inlay'
-Generating image...
-Prompt: Jade bangle with pearl inlay, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_016_Jade_bangle_with_pearl_inlay__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[16/150][312.88s] Completed save image for prompt, take 7.95s
-
-[17/150][317.88s] Generating image for prompt: 'sleek carbon fiber black race car'
-[17/150][319.29s] Optimized prompt: 'Black carbon fiber race car'
-Generating image...
-Prompt: Black carbon fiber race car, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_017_Black_carbon_fiber_race_car__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[17/150][328.69s] Completed save image for prompt, take 10.81s
-
-[18/150][333.69s] Generating image for prompt: 'smooth white frothy milk pitcher'
-[18/150][335.21s] Optimized prompt: 'Frothy white milk pitcher'
-Generating image...
-Prompt: Frothy white milk pitcher, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_018_Frothy_white_milk_pitcher__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[18/150][348.56s] Completed save image for prompt, take 14.88s
-
-[19/150][353.56s] Generating image for prompt: 'sleek violet mermaid in starlight gown'
-[19/150][354.91s] Optimized prompt: 'A stylish violet mermaid in a starry gown'
-Generating image...
-Prompt: A stylish violet mermaid in a starry gown, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Traceback (most recent call last):
-  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
-    image = model.Generate(
-            ^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
-    self.request = _get_image_request(self._client, params=params)
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
-    request.raise_for_status()
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
-    raise HTTPStatusError(message, request=request, response=self)
-httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/A%20stylish%20violet%20mermaid%20in%20a%20starry%20gown%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
-[19/150][360.20s] Completed save image for prompt, take 6.63s
-
-[20/150][365.20s] Generating image for prompt: 'tiny square white and black opal bracelet'
-[20/150][366.45s] Optimized prompt: 'Small black and white opal bracelet with square-shaped stones'
-Generating image...
-Prompt: Small black and white opal bracelet with square-shaped stones, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Traceback (most recent call last):
-  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
-    image = model.Generate(
-            ^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
-    self.request = _get_image_request(self._client, params=params)
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
-    request.raise_for_status()
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
-    raise HTTPStatusError(message, request=request, response=self)
-httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/Small%20black%20and%20white%20opal%20bracelet%20with%20square-shaped%20stones%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
-[20/150][367.70s] Completed save image for prompt, take 2.50s
-
-[21/150][372.70s] Generating image for prompt: 'gold chisel with chips in it'
-[21/150][380.43s] Optimized prompt: 'A gold chisel with chips in it'
-Generating image...
-Prompt: A gold chisel with chips in it, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_021_A_gold_chisel_with_chips_in_it__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[21/150][389.98s] Completed save image for prompt, take 17.28s
-
-[22/150][394.98s] Generating image for prompt: 'clear cylindrical citrine with sunny yellow shade'
-[22/150][396.48s] Optimized prompt: 'Clear cylindrical citrine with a bright yellow color'
-Generating image...
-Prompt: Clear cylindrical citrine with a bright yellow color, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_022_Clear_cylindrical_citrine_with_a_bright_yellow_color__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[22/150][399.47s] Completed save image for prompt, take 4.49s
-
-[23/150][404.47s] Generating image for prompt: 'navy blue soccer cleats studs'
-[23/150][411.15s] Optimized prompt: 'Navy blue soccer cleats with studs'
-Generating image...
-Prompt: Navy blue soccer cleats with studs, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_023_Navy_blue_soccer_cleats_with_studs__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[23/150][433.37s] Completed save image for prompt, take 28.90s
-
-[24/150][438.37s] Generating image for prompt: 'green four-eyed robot holding tool'
-[24/150][439.75s] Optimized prompt: 'Green robot with four eyes holding a tool'
-Generating image...
-Prompt: Green robot with four eyes holding a tool, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_024_Green_robot_with_four_eyes_holding_a_tool__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[24/150][455.54s] Completed save image for prompt, take 17.16s
-
-[25/150][460.54s] Generating image for prompt: 'spaceship carries booster rockets'
-[25/150][461.85s] Optimized prompt: 'A spaceship carries booster rockets.'
-Generating image...
-Prompt: A spaceship carries booster rockets., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_025_A_spaceship_carries_booster_rockets___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[25/150][480.79s] Completed save image for prompt, take 20.25s
-
-[26/150][485.79s] Generating image for prompt: 'sophisticated pearl tiara with subtle curves'
-[26/150][486.93s] Optimized prompt: 'Elegant pearl tiara with gentle curves'
-Generating image...
-Prompt: Elegant pearl tiara with gentle curves, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_026_Elegant_pearl_tiara_with_gentle_curves__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[26/150][496.10s] Completed save image for prompt, take 10.31s
-
-[27/150][501.10s] Generating image for prompt: 'onyx flat broadsword'
-[27/150][502.50s] Optimized prompt: 'Black flat sword'
-Generating image...
-Prompt: Black flat sword, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_027_Black_flat_sword__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[27/150][507.31s] Completed save image for prompt, take 6.20s
-
-[28/150][512.31s] Generating image for prompt: 'gold-plated action figure with dynamic pose'
-[28/150][513.52s] Optimized prompt: 'Gold-colored action figure with a dynamic pose'
-Generating image...
-Prompt: Gold-colored action figure with a dynamic pose, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_028_Gold_colored_action_figure_with_a_dynamic_pose__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[28/150][528.62s] Completed save image for prompt, take 16.31s
-
-[29/150][533.62s] Generating image for prompt: 'robot with white square body and blue round head'
-[29/150][535.38s] Optimized prompt: 'A robot with a white square body and a blue round head.'
-Generating image...
-Prompt: A robot with a white square body and a blue round head., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_029_A_robot_with_a_white_square_body_and_a_blue_round_head___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[29/150][546.89s] Completed save image for prompt, take 13.27s
-
-[30/150][551.89s] Generating image for prompt: 'glossy emerald obelisk-shaped gem'
-[30/150][553.50s] Optimized prompt: 'A shiny emerald-green, pointed, obelisk-shaped gem.'
-Generating image...
-Prompt: A shiny emerald-green, pointed, obelisk-shaped gem., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_030_A_shiny_emerald_green__pointed__obelisk_shaped_gem___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[30/150][563.66s] Completed save image for prompt, take 11.78s
-
-[31/150][568.66s] Generating image for prompt: 'sleek black robot beside plant pot'
-[31/150][569.74s] Optimized prompt: 'Black robot next to a plant pot'
-Generating image...
-Prompt: Black robot next to a plant pot, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_031_Black_robot_next_to_a_plant_pot__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[31/150][578.78s] Completed save image for prompt, take 10.12s
-
-[32/150][583.78s] Generating image for prompt: 'smooth green pear perched atop white napkin'
-[32/150][586.08s] Optimized prompt: 'A shiny green pear resting on a white napkin.'
-Generating image...
-Prompt: A shiny green pear resting on a white napkin., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_032_A_shiny_green_pear_resting_on_a_white_napkin___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[32/150][598.09s] Completed save image for prompt, take 14.31s
-
-[33/150][603.09s] Generating image for prompt: 'vintage steel drum adorned with tropical designs'
-[33/150][604.43s] Optimized prompt: 'Vintage steel drum with tropical patterns'
-Generating image...
-Prompt: Vintage steel drum with tropical patterns, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_033_Vintage_steel_drum_with_tropical_patterns__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[33/150][621.41s] Completed save image for prompt, take 18.32s
-
-[34/150][626.41s] Generating image for prompt: 'white cotton ball nestled in wooden bowl'
-[34/150][627.61s] Optimized prompt: 'A white cotton ball in a wooden bowl.'
-Generating image...
-Prompt: A white cotton ball in a wooden bowl., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_034_A_white_cotton_ball_in_a_wooden_bowl___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[34/150][646.17s] Completed save image for prompt, take 19.76s
-
-[35/150][651.17s] Generating image for prompt: 'long bench made of metal'
-[35/150][652.44s] Optimized prompt: 'metal bench'
-Generating image...
-Prompt: metal bench, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_035_metal_bench__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[35/150][669.30s] Completed save image for prompt, take 18.12s
-
-[36/150][674.30s] Generating image for prompt: 'small curved wooden tool'
-[36/150][675.54s] Optimized prompt: 'small curved wooden tool'
-Generating image...
-Prompt: small curved wooden tool, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_036_small_curved_wooden_tool__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[36/150][679.62s] Completed save image for prompt, take 5.32s
-
-[37/150][684.62s] Generating image for prompt: 'large yellow diamond with chip in it'
-[37/150][686.39s] Optimized prompt: 'Large yellow diamond with a chip inside.'
-Generating image...
-Prompt: Large yellow diamond with a chip inside., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_037_Large_yellow_diamond_with_a_chip_inside___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[37/150][692.15s] Completed save image for prompt, take 7.53s
-
-[38/150][697.15s] Generating image for prompt: 'multi-colored beads on leather string'
-[38/150][701.39s] Optimized prompt: 'Colorful beads on a leather cord'
-Generating image...
-Prompt: Colorful beads on a leather cord, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_038_Colorful_beads_on_a_leather_cord__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[38/150][716.20s] Completed save image for prompt, take 19.05s
-
-[39/150][721.20s] Generating image for prompt: 'purple frisbee aerodynamic and disc-shaped'
-[39/150][723.11s] Optimized prompt: 'A purple, disc-shaped, and aerodynamic frisbee.'
-Generating image...
-Prompt: A purple, disc-shaped, and aerodynamic frisbee., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_039_A_purple__disc_shaped__and_aerodynamic_frisbee___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[39/150][748.26s] Completed save image for prompt, take 27.06s
-
-[40/150][753.26s] Generating image for prompt: 'purple synthetic track shoe'
-[40/150][760.81s] Optimized prompt: 'Purple artificial running shoe'
-Generating image...
-Prompt: Purple artificial running shoe, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_040_Purple_artificial_running_shoe__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[40/150][775.46s] Completed save image for prompt, take 22.20s
-
-[41/150][780.46s] Generating image for prompt: 'matte-black humanoid robot standing in pose of contemplation'
-[41/150][781.78s] Optimized prompt: 'A matte black humanoid robot standing in a thoughtful pose.'
-Generating image...
-Prompt: A matte black humanoid robot standing in a thoughtful pose., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_041_A_matte_black_humanoid_robot_standing_in_a_thoughtful_pose___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[41/150][792.12s] Completed save image for prompt, take 11.67s
-
-[42/150][797.12s] Generating image for prompt: 'pinecone on blue spruce branch'
-[42/150][798.59s] Optimized prompt: 'Pinecone on a blue spruce branch'
-Generating image...
-Prompt: Pinecone on a blue spruce branch, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_042_Pinecone_on_a_blue_spruce_branch__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[42/150][808.52s] Completed save image for prompt, take 11.39s
-
-[43/150][813.52s] Generating image for prompt: 'tiny wand wrapped in velvet ribbon'
-[43/150][817.70s] Optimized prompt: 'Small wand tied with velvet ribbon'
-Generating image...
-Prompt: Small wand tied with velvet ribbon, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_043_Small_wand_tied_with_velvet_ribbon__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[43/150][823.57s] Completed save image for prompt, take 10.06s
-
-[44/150][828.57s] Generating image for prompt: 'minimalist clear plastic protractor'
-[44/150][829.61s] Optimized prompt: 'Clear plastic protractor with a simple, minimalist design'
-Generating image...
-Prompt: Clear plastic protractor with a simple, minimalist design, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_044_Clear_plastic_protractor_with_a_simple__minimalist_design__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[44/150][835.19s] Completed save image for prompt, take 6.62s
-
-[45/150][840.19s] Generating image for prompt: 'red vanity mirror'
-[45/150][843.05s] Optimized prompt: 'Red mirror with a vanity stand'
-Generating image...
-Prompt: Red mirror with a vanity stand, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_045_Red_mirror_with_a_vanity_stand__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[45/150][857.82s] Completed save image for prompt, take 17.63s
-
-[46/150][862.82s] Generating image for prompt: 'glossy yellow fruit bowl deep rimmed'
-[46/150][864.29s] Optimized prompt: 'Yellow glossy fruit bowl with a deep rim'
-Generating image...
-Prompt: Yellow glossy fruit bowl with a deep rim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_046_Yellow_glossy_fruit_bowl_with_a_deep_rim__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[46/150][869.95s] Completed save image for prompt, take 7.13s
-
-[47/150][874.95s] Generating image for prompt: 'opal necklace with sun shape'
-[47/150][876.39s] Optimized prompt: 'Opal sun-shaped necklace'
-Generating image...
-Prompt: Opal sun-shaped necklace, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_047_Opal_sun_shaped_necklace__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[47/150][892.74s] Completed save image for prompt, take 17.80s
-
-[48/150][897.74s] Generating image for prompt: 'blue monkey with yellow face'
-[48/150][899.73s] Optimized prompt: 'Blue monkey with a yellow face'
-Generating image...
-Prompt: Blue monkey with a yellow face, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_048_Blue_monkey_with_a_yellow_face__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[48/150][919.08s] Completed save image for prompt, take 21.33s
-
-[49/150][924.08s] Generating image for prompt: 'elegant pearl pendant on dainty chain'
-[49/150][928.78s] Optimized prompt: 'Elegant pearl necklace with delicate chain'
-Generating image...
-Prompt: Elegant pearl necklace with delicate chain, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_049_Elegant_pearl_necklace_with_delicate_chain__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[49/150][934.83s] Completed save image for prompt, take 10.75s
-
-[50/150][939.83s] Generating image for prompt: 'warm brown mug of hot chocolate'
-[50/150][944.22s] Optimized prompt: 'hot chocolate in a warm brown mug'
-Generating image...
-Prompt: hot chocolate in a warm brown mug, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_050_hot_chocolate_in_a_warm_brown_mug__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[50/150][956.90s] Completed save image for prompt, take 17.07s
-
-[51/150][961.90s] Generating image for prompt: 'wizards cloak with golden trim'
-[51/150][963.28s] Optimized prompt: 'Wizard's cloak with gold trim'
-Generating image...
-Prompt: Wizard's cloak with gold trim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_051_Wizard_s_cloak_with_gold_trim__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[51/150][969.36s] Completed save image for prompt, take 7.47s
-
-[52/150][974.36s] Generating image for prompt: 'metallic green bow with polished wood limbs'
-[52/150][976.12s] Optimized prompt: 'Glossy green bow with smooth wooden limbs'
-Generating image...
-Prompt: Glossy green bow with smooth wooden limbs, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_052_Glossy_green_bow_with_smooth_wooden_limbs__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[52/150][984.84s] Completed save image for prompt, take 10.48s
-
-[53/150][989.84s] Generating image for prompt: 'prismatic violet tourmaline glows'
-[53/150][991.46s] Optimized prompt: 'Vivid violet tourmaline shines brightly.'
-Generating image...
-Prompt: Vivid violet tourmaline shines brightly., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_053_Vivid_violet_tourmaline_shines_brightly___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[53/150][999.56s] Completed save image for prompt, take 9.72s
-
-[54/150][1004.56s] Generating image for prompt: 'sniper rifle custom scope with infrared capabilities'
-[54/150][1008.88s] Optimized prompt: 'Custom sniper rifle scope with infrared vision'
-Generating image...
-Prompt: Custom sniper rifle scope with infrared vision, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_054_Custom_sniper_rifle_scope_with_infrared_vision__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[54/150][1017.85s] Completed save image for prompt, take 13.29s
-
-[55/150][1022.85s] Generating image for prompt: 'gray squirrel running briskly'
-[55/150][1024.16s] Optimized prompt: 'A quick gray squirrel.'
-Generating image...
-Prompt: A quick gray squirrel., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_055_A_quick_gray_squirrel___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[55/150][1037.96s] Completed save image for prompt, take 15.12s
-
-[56/150][1042.96s] Generating image for prompt: 'beige robot holding wrench'
-[56/150][1044.31s] Optimized prompt: 'Beige robot holding a wrench.'
-Generating image...
-Prompt: Beige robot holding a wrench., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_056_Beige_robot_holding_a_wrench___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[56/150][1050.58s] Completed save image for prompt, take 7.61s
-
-[57/150][1055.58s] Generating image for prompt: 'giant red centaur holding shield'
-[57/150][1057.73s] Optimized prompt: 'A large red centaur holding a shield.'
-Generating image...
-Prompt: A large red centaur holding a shield., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_057_A_large_red_centaur_holding_a_shield___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[57/150][1071.47s] Completed save image for prompt, take 15.90s
-
-[58/150][1076.47s] Generating image for prompt: 'dagger with ivory handle and golden tip'
-[58/150][1078.17s] Optimized prompt: 'Ivory-handled dagger with a gold tip'
-Generating image...
-Prompt: Ivory-handled dagger with a gold tip, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_058_Ivory_handled_dagger_with_a_gold_tip__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[58/150][1092.84s] Completed save image for prompt, take 16.37s
-
-[59/150][1097.84s] Generating image for prompt: 'powerful purple hippogriff in fierce battle stance'
-[59/150][1100.65s] Optimized prompt: 'A strong purple hippogriff in an aggressive battle stance.'
-Generating image...
-Prompt: A strong purple hippogriff in an aggressive battle stance., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_059_A_strong_purple_hippogriff_in_an_aggressive_battle_stance___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[59/150][1124.36s] Completed save image for prompt, take 26.52s
-
-[60/150][1129.36s] Generating image for prompt: 'vibrant blue feathered phoenix wings spread standing proud on marble pedestal'
-[60/150][1131.31s] Optimized prompt: 'Vivid blue phoenix wings spread wide, standing proudly on a marble pedestal.'
-Generating image...
-Prompt: Vivid blue phoenix wings spread wide, standing proudly on a marble pedestal., no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_060_Vivid_blue_phoenix_wings_spread_wide__standing_proudly_on_a_marble_pedestal___no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[60/150][1137.72s] Completed save image for prompt, take 8.36s
-
-[61/150][1142.72s] Generating image for prompt: 'metallic cylinder with rounded edges'
-[61/150][1144.83s] Optimized prompt: 'Metal cylinder with smooth, rounded edges'
-Generating image...
-Prompt: Metal cylinder with smooth, rounded edges, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_061_Metal_cylinder_with_smooth__rounded_edges__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[61/150][1158.57s] Completed save image for prompt, take 15.84s
-
-[62/150][1163.57s] Generating image for prompt: 'metal carving tool set'
-[62/150][1167.91s] Optimized prompt: 'Metal engraving tool kit'
-Generating image...
-Prompt: Metal engraving tool kit, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_062_Metal_engraving_tool_kit__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[62/150][1183.19s] Completed save image for prompt, take 19.62s
-
-[63/150][1188.19s] Generating image for prompt: 'elegant gold ring featuring sapphire centerpiece'
-[63/150][1192.28s] Optimized prompt: 'Simple gold ring with a blue sapphire center gemstone'
-Generating image...
-Prompt: Simple gold ring with a blue sapphire center gemstone, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_063_Simple_gold_ring_with_a_blue_sapphire_center_gemstone__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[63/150][1204.09s] Completed save image for prompt, take 15.90s
-
-[64/150][1209.09s] Generating image for prompt: 'lustrous white opal shard'
-[64/150][1210.77s] Optimized prompt: 'Shiny white opal fragment'
-Generating image...
-Prompt: Shiny white opal fragment, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_064_Shiny_white_opal_fragment__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[64/150][1224.20s] Completed save image for prompt, take 15.11s
-
-[65/150][1229.20s] Generating image for prompt: 'mortar tube loaded ready for launch'
-[65/150][1233.59s] Optimized prompt: '{"annotations":[],"refusal":null,"role":"assistant"}'
-Generating image...
-Prompt: {"annotations":[],"refusal":null,"role":"assistant"}, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_065___annotations______refusal__null__role___assistant____no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[65/150][1244.97s] Completed save image for prompt, take 15.77s
-
-[66/150][1249.97s] Generating image for prompt: 'compact green bamboo cabinet'
-[66/150][1251.29s] Optimized prompt: 'Small green bamboo cabinet'
-Generating image...
-Prompt: Small green bamboo cabinet, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Saving image to results/img_066_Small_green_bamboo_cabinet__no_background__no_watermark__whole_body__full_body_in_view__isometric_view___45_degree_45_degree__camera_angle.png
-[66/150][1257.43s] Completed save image for prompt, take 7.46s
-
-[67/150][1262.43s] Generating image for prompt: 'donut with flames'
-[67/150][1266.36s] Optimized prompt: 'A hot, flaming donut'
-Generating image...
-Prompt: A hot, flaming donut, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Traceback (most recent call last):
-  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
-    image = model.Generate(
-            ^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
-    self.request = _get_image_request(self._client, params=params)
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
-    request.raise_for_status()
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
-    raise HTTPStatusError(message, request=request, response=self)
-httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/A%20hot%2C%20flaming%20donut%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
-[67/150][1270.71s] Completed save image for prompt, take 8.28s
-
-[68/150][1275.71s] Generating image for prompt: 'clay pot with rim chips'
-[68/150][1276.99s] Optimized prompt: 'Clay pot with chips on the rim'
-Generating image...
-Prompt: Clay pot with chips on the rim, no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle
-Negative prompt: 
-Traceback (most recent call last):
-  File "/home/VF-THONGPV1-L/Downloads/demo/get_image.py", line 38, in <module>
-    image = model.Generate(
-            ^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/core/image.py", line 94, in Generate
-    self.request = _get_image_request(self._client, params=params)
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/pollinations/_core/_get_image_request.py", line 38, in _get_image_request
-    request.raise_for_status()
-  File "/home/VF-THONGPV1-L/miniconda3/envs/trellis/lib/python3.11/site-packages/httpx/_models.py", line 829, in raise_for_status
-    raise HTTPStatusError(message, request=request, response=self)
-httpx.HTTPStatusError: Server error '502 Bad Gateway' for url 'https://image.pollinations.ai/prompt/Clay%20pot%20with%20chips%20on%20the%20rim%2C%20no%20background%2C%20no%20watermark%2C%20whole%20body%2C%20full%20body%20in%20view%2C%20isometric%20view%2C%20%2845-degree/45-degree%29%20camera%20angle%3Fmodel=flux&width=1024&height=1024&nologo=True&private=False&enhance=False&safe=False&referrer=pollinations.py&json=False&messages=[]&seed=100'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
-[68/150][1278.01s] Completed save image for prompt, take 2.31s
-
-[69/150][1283.01s] Generating image for prompt: 'colorful macaron set on silver tray'
-[69/150][1284.00s] Optimized prompt: 'Colorful macarons on a silver tray'
+Batch image generation complete.

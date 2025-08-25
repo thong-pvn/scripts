@@ -169,6 +169,8 @@ for idx, prompt in enumerate(DEFAULT_PROMPTS):
 
     print(f"[{idx + 1}/{len(DEFAULT_PROMPTS)}][{time.time() - start_time:.2f}s] Optimized prompt: '{optimized_prompt}'")
 
+    time.sleep(5)
+
     result = subprocess.run([
         "python", "get_image.py", f"--prompt={optimized_prompt}", f"--filename_prefix=img_{idx + 1:03d}"
     ])

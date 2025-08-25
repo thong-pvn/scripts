@@ -19,7 +19,8 @@ args = parser.parse_args()
 
 RESULT_FOLDER = "results"
 
-custom_prompt = args.prompt + ", no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle"
+custom_prompt = args.prompt + ", in huge black space, toy-like appearance. It is fresh-color, non reflective, solid texture, opaque fabric. It is a game asset. It has a smooth, stylized, low-poly design, with minimalist details and rounded edges. It is isometric view, (45-degree/45-degree) camera angle. The main color for the parts that are not clearly described will be red."
+# custom_prompt = args.prompt + ", no background, no watermark, whole body, full body in view, isometric view, (45-degree/45-degree) camera angle"
 
 encoded_prompt = urllib.parse.quote(custom_prompt)
 
@@ -44,7 +45,7 @@ try:
 
     file_path = args.filename_prefix + "_" + re.sub(r'[^a-zA-Z0-9]', '_', custom_prompt.strip())[:200]
 
-    print(f"Saving image to {RESULT_FOLDER}/{file_path}.png")
+    print(f"Saving image to {RESULT_FOLDER}")
     os.makedirs(RESULT_FOLDER, exist_ok=True)
     Image.open(BytesIO(response.content)).save(f"{RESULT_FOLDER}/{file_path}.png", "png")
 
